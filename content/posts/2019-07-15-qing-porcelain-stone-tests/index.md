@@ -1,12 +1,10 @@
 ---
-title: Qing Porcelain Stone Tests
-author: Derek Au
+title: "Qing Porcelain Stone Tests"
+author: "Derek Au"
 date: 2019-07-15
 hero: ./images/IMG_8272.jpg
 excerpt: 
 ---
-
-![](./images/IMG_8272.jpg)
 
 These are melt tests of different types of porcelain stone from sometime at or before the Qing dynasty. Iron or blue _qinghua_ underglaze was used to write place names and other notes on each test.
 

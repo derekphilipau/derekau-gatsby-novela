@@ -1,6 +1,6 @@
 ---
-title: Artist Lecture
-author: Derek Au
+title: "Artist Lecture"
+author: "Derek Au"
 date: 2019-12-24
 hero: ./images/Poster_Square2.png
 excerpt: 

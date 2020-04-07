@@ -1,8 +1,8 @@
 ---
-title: Six McKnight Artists
-author: Derek Au
+title: "Six McKnight Artists"
+author: "Derek Au"
 date: 2019-07-14
-hero: 
+hero: ./images/IMG_8144.jpg
 excerpt: 
 ---
 

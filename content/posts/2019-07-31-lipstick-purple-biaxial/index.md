@@ -1,6 +1,6 @@
 ---
-title: Lipstick Purple Biaxial
-author: Derek Au
+title: "Lipstick Purple Biaxial"
+author: "Derek Au"
 date: 2019-07-31
 hero: ./images/SON08989_edit.jpg
 excerpt: 

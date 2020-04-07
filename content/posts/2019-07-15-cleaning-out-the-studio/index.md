@@ -1,6 +1,6 @@
 ---
-title: Cleaning out the studio
-author: Derek Au
+title: "Cleaning out the studio"
+author: "Derek Au"
 date: 2019-07-15
 hero: ./images/DSC01345.jpg
 excerpt: 

@@ -1,6 +1,6 @@
 ---
-title: Thanks Ceramic Review!
-author: Derek Au
+title: "Thanks Ceramic Review!"
+author: "Derek Au"
 date: 2019-08-22
 hero: ./images/CERAMICREVIEW299.jpg
 excerpt: 

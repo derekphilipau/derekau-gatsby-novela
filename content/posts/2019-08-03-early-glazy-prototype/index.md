@@ -1,6 +1,6 @@
 ---
-title: Early Glazy Prototype
-author: Derek Au
+title: "Early Glazy Prototype"
+author: "Derek Au"
 date: 2019-08-03
 hero: ./images/All4x4.jpg
 excerpt: 

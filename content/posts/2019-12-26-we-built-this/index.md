@@ -1,6 +1,6 @@
 ---
-title: We Built this.
-author: Derek Au
+title: "We Built this."
+author: "Derek Au"
 date: 2019-12-26
 hero: ./images/ALLPhotos_final2.jpg
 excerpt: 

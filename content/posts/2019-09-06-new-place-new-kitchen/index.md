@@ -1,6 +1,6 @@
 ---
-title: New place, new kitchen
-author: Derek Au
+title: "New place, new kitchen"
+author: "Derek Au"
 date: 2019-09-06
 hero: ./images/redlodge.jpg
 excerpt: 

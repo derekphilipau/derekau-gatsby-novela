@@ -47,11 +47,6 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-netlify-cms`,
-      options: {
-      },
-    },
-    {
       resolve: `gatsby-plugin-mdx`,
       options: {
         extensions: [`.mdx`, `.md`],
@@ -78,6 +73,13 @@ module.exports = {
           },
         ],
         remarkPlugins: [require(`remark-slug`)], // eslint-disable-line global-require
+      },
+    },
+    {
+      resolve: `gatsby-source-instagram`,
+      options: {
+        type: `user-profile`,
+        username: `glazyorg`,
       },
     }
   ],

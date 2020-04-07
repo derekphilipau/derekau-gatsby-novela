@@ -1,6 +1,6 @@
 ---
-title: Various Hutian qingbai shards
-author: Derek Au
+title: "Various Hutian qingbai shards"
+author: "Derek Au"
 date: 2019-08-07
 hero: ./images/DSC01620.jpg
 excerpt: 
