@@ -1,8 +1,8 @@
 ---
-title: Glazy Video Tutorials
-author: Derek Au
+title: "Glazy Video Tutorials"
+author: "Derek Au"
 date: 2019-02-22
-hero: 
+hero: ./images/CreateAnalyses.jpg
 excerpt: 
 ---
 

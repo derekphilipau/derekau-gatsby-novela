@@ -1,8 +1,8 @@
 ---
-title: Stacked Firing Logs
-author: Derek Au
+title: "Stacked Firing Logs"
+author: "Derek Au"
 date: 2019-02-25
-hero: 
+hero: ./images/MeatballAllSingle.jpg
 excerpt: 
 ---
 

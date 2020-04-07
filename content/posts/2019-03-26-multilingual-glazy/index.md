@@ -1,10 +1,10 @@
 ---
-title: Multilingual Glazy
-author: Derek Au
+title: "Multilingual Glazy"
+author: "Derek Au"
 date: 2019-03-26
-hero: 
+hero: ./images/GlazyWordCloud.jpg
 excerpt: 
-coverImage: "GlazyWordCloud.jpg"
+
 ---
 
 Huge new feature:  Internationalization!

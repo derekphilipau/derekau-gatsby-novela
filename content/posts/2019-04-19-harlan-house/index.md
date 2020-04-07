@@ -1,10 +1,9 @@
 ---
-title: \"My Work, My Way\" by Harlan House
-author: Derek Au
+title: "\"My Work, My Way\" by Harlan House"
+author: "Derek Au"
 date: 2019-04-19
-hero: 
+hero: ./images/IG_multiple.jpg
 excerpt: 
-coverImage: "IG_multiple.jpg"
 ---
 
 Newly-published book and recipes from Harlan House!

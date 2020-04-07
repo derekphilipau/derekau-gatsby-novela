@@ -1,8 +1,8 @@
 ---
-title: Can you leave Jingdezhen?
-author: Derek Au
+title: "Can you leave Jingdezhen?"
+author: "Derek Au"
 date: 2019-02-21
-hero: 
+hero: ./images/DSC01056.jpg
 excerpt: 
 ---
 
@@ -21,5 +21,5 @@ Having been involved for a number of years as an activist in the environmental m
 [Derek’s NZK & Mahavir Porcelain: https://glazy.org/recipes/25288](https://glazy.org/recipes/25288)
 
 ![](./images/DSC01033_pickb.jpg)
-    
+
 ![](./images/DSC01023-4-pick2.jpg)

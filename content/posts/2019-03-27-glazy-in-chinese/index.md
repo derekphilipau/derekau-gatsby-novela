@@ -1,9 +1,9 @@
 ---
-title: 陶瓷配方资料馆
+title: "陶瓷配方资料馆"
 slug: 2019-03-27-glazy-in-chinese
-author: Derek Au
+author: "Derek Au"
 date: 2019-03-27
-hero: 
+hero: ./images/glazy_cn.png
 excerpt: 
 ---
 

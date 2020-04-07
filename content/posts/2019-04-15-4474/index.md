@@ -1,10 +1,9 @@
 ---
-title: Rare Earth Glazes in Different Lighting
-author: Derek Au
+title: "Rare Earth Glazes in Different Lighting"
+author: "Derek Au"
 date: 2019-04-15
-hero: 
+hero: ./images/Rare_All_Natural_light.jpg
 excerpt: 
-coverImage: "Rare_All_Natural_light.jpg"
 ---
 
 Some of your requested my previous tests of Erbium Oxide, Neodymium Oxide, and Praseodymium Oxide in Oxidation at Orton Cone 6.

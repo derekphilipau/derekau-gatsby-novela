@@ -1,8 +1,8 @@
 ---
-title: Cone 6 Clear with Various Mason Stains
-author: Derek Au
+title: "Cone 6 Clear with Various Mason Stains"
+author: "Derek Au"
 date: 2019-04-17
-hero: 
+hero: ./images/MasonAllmed-copy.jpg
 excerpt: 
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: Colour Wheels, Charts, and Tables Through History
-author: Derek Au
+title: "Colour Wheels, Charts, and Tables Through History"
+author: "Derek Au"
 date: 2019-02-11
-hero: 
+hero: ./images/largecolor-triax_013_lichtenberg.jpg
 excerpt: 
 ---
 

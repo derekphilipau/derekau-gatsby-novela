@@ -1,8 +1,8 @@
 ---
-title: Quickly Wet-mixing Multiple Additive Tests
-author: Derek Au
+title: "Quickly Wet-mixing Multiple Additive Tests"
+author: "Derek Au"
 date: 2019-02-26
-hero: 
+hero: ./images/MixingGuideNew.jpg
 excerpt: 
 ---
 

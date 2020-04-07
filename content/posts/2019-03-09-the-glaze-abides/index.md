@@ -1,8 +1,8 @@
 ---
-title: The glaze abides..
-author: Derek Au
+title: "The glaze abides.."
+author: "Derek Au"
 date: 2019-03-09
-hero: 
+hero: ./images/thedude.jpg
 excerpt: 
 ---
 

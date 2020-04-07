@@ -1,10 +1,10 @@
 ---
-title: Various Copper Red Tests
-author: Derek Au
+title: "Various Copper Red Tests"
+author: "Derek Au"
 date: 2019-04-10
-hero: 
+hero: ./images/copper_ig.jpg
 excerpt: 
-coverImage: "copper_ig.jpg"
+
 ---
 
 Various new tests of Copper Red glazes and variations now available on https://glazy.org
