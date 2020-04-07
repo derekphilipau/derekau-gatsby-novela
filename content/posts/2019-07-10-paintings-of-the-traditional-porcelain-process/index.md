@@ -1,6 +1,6 @@
 ---
-title: Paintings of the Traditional Porcelain Process
-author: Derek Au
+title: "Paintings of the Traditional Porcelain Process"
+author: "Derek Au"
 date: 2019-07-10
 hero: ./images/010-2006AG1281_2500-Mining-China-Stone.jpg
 excerpt: 
