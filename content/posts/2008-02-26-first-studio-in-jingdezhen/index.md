@@ -1,6 +1,6 @@
 ---
-title: First Studio in Jingdezhen
-author: Derek Au
+title: "First Studio in Jingdezhen"
+author: "Derek Au"
 date: 2008-02-26
 hero: ./images/IMG_1461.jpg
 excerpt: 

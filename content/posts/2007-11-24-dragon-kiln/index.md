@@ -1,6 +1,6 @@
 ---
-title: Dragon Kiln
-author: Derek Au
+title: "Dragon Kiln"
+author: "Derek Au"
 date: 2007-11-24
 hero: ./images/IMG_0821.jpg
 excerpt: 

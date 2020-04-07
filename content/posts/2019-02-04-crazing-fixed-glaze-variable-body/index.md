@@ -1,8 +1,8 @@
 ---
-title: Crazing\: Fixed Glaze, Variable Body
-author: Derek Au
+title: "Crazing: Fixed Glaze, Variable Body"
+author: "Derek Au"
 date: 2019-02-04
-hero: 
+hero: ./images/ALL.jpg
 excerpt: 
 ---
 

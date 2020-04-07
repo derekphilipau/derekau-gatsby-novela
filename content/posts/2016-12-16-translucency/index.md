@@ -1,6 +1,6 @@
 ---
-title: Translucency
-author: Derek Au
+title: "Translucency"
+author: "Derek Au"
 date: 2016-12-16
 hero: ./images/SON01893.jpg
 excerpt: 

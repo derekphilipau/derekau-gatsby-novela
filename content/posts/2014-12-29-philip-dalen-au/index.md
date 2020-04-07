@@ -1,7 +1,7 @@
 ---
-title: 區达年 Philip Dalen Au
+title: "區达年 Philip Dalen Au"
 slug: 2014-12-29-philip-dalen-au
-author: Derek Au
+author: "Derek Au"
 date: 2014-12-29
 hero: ./images/scan010-1.jpg
 excerpt: 
@@ -30,44 +30,44 @@ _\-Patrick Au_
 ### Early Years
 
 ![](./images/scan025_2_edit.jpg)
-    
-    Philip Au with friends. Shanghai early 1940s.
-    
+
+Philip Au with friends. Shanghai early 1940s.
+
 ![](./images/scan037_2-Edit.jpg)
-    
-    Philip Au with friends. Shanghai early 1940s.
-    
+
+Philip Au with friends. Shanghai early 1940s.
+
 ![](./images/scan035_15-Edit.jpg)
-    
-    Philip Au with friends. Shanghai early 1940s.
-    
+
+Philip Au with friends. Shanghai early 1940s.
+
 ![](./images/scan034_4-Edit.jpg)
-    
+
 ![](./images/scan034_5-Edit.jpg)
-    
-    Philip Au with friends, early 1940s. Shanghai Bund waterfront. Possibly with bank co-workers where Philip worked in currency arbitrage.
-    
+
+Philip Au with friends, early 1940s. Shanghai Bund waterfront. Possibly with bank co-workers where Philip worked in currency arbitrage.
+
 ![](./images/scan038_2-Edit.jpg)
-    
-    Philip Au with friends, early 1940s. Shanghai Bund waterfront. Possibly with bank co-workers where Philip worked in currency arbitrage.
-    
+
+Philip Au with friends, early 1940s. Shanghai Bund waterfront. Possibly with bank co-workers where Philip worked in currency arbitrage.
+
 ![](./images/scan035_6-Edit.jpg)
-    
-    Shanghai, 1940's.
-    
+
+Shanghai, 1940's.
+
 ![](./images/scan049_4-Edit.jpg)
-    
-    Shanghai, 1940's.
-    
+
+Shanghai, 1940's.
+
 
 ### Marriage, 1944
 
 ![](./images/scan051.jpg)
-    
+
 ![](./images/scan011.jpg)
-    
+
 ![](./images/scan048_5-Edit.jpg)
-    
+
 
 ### Mainland Chinese Refugees, Hong Kong, 1950's
 
@@ -78,25 +78,25 @@ The **1950s in [Hong Kong](https://en.wikipedia.org/wiki/Hong_Kong)** began a
 [https://en.wikipedia.org/wiki/1950s\_in\_Hong\_Kong](https://en.wikipedia.org/wiki/1950s_in_Hong_Kong)
 
 ![](./images/scan049_1_edit.jpg)
-    
-    Chinese mainland refugees in Hong Kong, 1950's
-    
+
+Chinese mainland refugees in Hong Kong, 1950's
+
 ![](./images/scan025_5_edit.jpg)
-    
-    Chinese mainland refugees in Hong Kong, 1950's
-    
+
+Chinese mainland refugees in Hong Kong, 1950's
+
 ![](./images/scan025_4_edit.jpg)
-    
-    Chinese mainland refugees in Hong Kong, 1950's
-    
+
+Chinese mainland refugees in Hong Kong, 1950's
+
 ![](./images/scan026_1_edit.jpg)
-    
-    Chinese mainland refugees in Hong Kong, 1950's
-    
+
+Chinese mainland refugees in Hong Kong, 1950's
+
 ![](./images/scan046_2-Edit.jpg)
-    
-    Philip Au with Chinese mainland refugees in Hong Kong, 1950's
-    
+
+Philip Au with Chinese mainland refugees in Hong Kong, 1950's
+
 
 ### Reform Club
 
@@ -109,25 +109,25 @@ The **Reform Club of Hong Kong** ([Chinese](https://en.wikipedia.org/wiki/Trad
 [https://en.wikipedia.org/wiki/Urban\_Council](https://en.wikipedia.org/wiki/Urban_Council)
 
 ![](./images/scan046_3-Edit.jpg)
-    
+
 ![](./images/scan019_2edit2.jpg)
-    
+
 ![](./images/scan033_7-1.jpg)
-    
-    Philip Dalen Au giving a speech for the Reform Club. Hong Kong, 1950's
-    
+
+Philip Dalen Au giving a speech for the Reform Club. Hong Kong, 1950's
+
 ![](./images/scan049_3-Editx.jpg)
-    
-    Philip Dalen Au at a refugee camp. Hong Kong, 1950's
-    
+
+Philip Dalen Au at a refugee camp. Hong Kong, 1950's
+
 ![](./images/scan036_2-Edit.jpg)
-    
-    Philip Dalen Au. Hong Kong, 1950's
-    
+
+Philip Dalen Au. Hong Kong, 1950's
+
 ![](./images/scan021_4_edit.jpg)
-    
-    A polling station. Hong Kong, 1950's
-    
+
+A polling station. Hong Kong, 1950's
+
 
 ### North Point Estate (1958 – 2002)
 

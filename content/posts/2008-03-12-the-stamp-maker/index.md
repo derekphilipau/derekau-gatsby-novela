@@ -1,6 +1,6 @@
 ---
-title: The Stamp Maker
-author: Derek Au
+title: "The Stamp Maker"
+author: "Derek Au"
 date: 2008-03-12
 hero: ./images/IMG_16571.jpg
 excerpt: 

@@ -1,6 +1,6 @@
 ---
-title: Seeing the cones
-author: Derek Au
+title: "Seeing the cones"
+author: "Derek Au"
 date: 2016-02-20
 hero: ./images/IMG_1953.jpg
 excerpt: 

@@ -1,6 +1,6 @@
 ---
-title: Jingdezhen motorcycle
-author: Derek Au
+title: "Jingdezhen motorcycle"
+author: "Derek Au"
 date: 2007-11-19
 hero: ./images/IMG_9455.jpg
 excerpt: 

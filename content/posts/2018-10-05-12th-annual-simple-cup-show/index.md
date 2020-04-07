@@ -1,8 +1,8 @@
 ---
-title: 12th Annual Simple Cup Show
-author: Derek Au
+title: "12th Annual Simple Cup Show"
+author: "Derek Au"
 date: 2018-10-05
-hero: 
+hero: ./images/4cups.jpg
 excerpt: 
 ---
 

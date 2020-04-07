@@ -1,8 +1,8 @@
 ---
-title: Brother Thomas Bezanson
-author: Derek Au
+title: "Brother Thomas Bezanson"
+author: "Derek Au"
 date: 2016-04-10
-hero: 
+hero: ./images/BTworkshop_images.jpg
 excerpt: 
 ---
 
@@ -19,25 +19,25 @@ From [Creations in Clay](https://books.google.com/books?id=z6OtEfQgGwUC), a book
 [The Boston Museum of Fine Arts has a small but wonderful collection of Brother Thomas Bezanson’s work.](http://www.mfa.org/collections/search?f[0]=field_artists%253Afield_artist%3A4106)  Below are some images from their website.
 
 ![](./images/C36724CR-d1.jpg)
-    
-    Porcelain vase with copper red glaze
-    
+
+Porcelain vase with copper red glaze
+
 ![](./images/E9265CR-d1.jpg)
-    
-    Wintermoon (Vase)
-    
+
+Wintermoon (Vase)
+
 ![](./images/E8640CR-d1.jpg)
-    
-    Vase
-    
+
+Vase
+
 ![](./images/SC615.jpg)
-    
-    Hexagonal platter
-    
+
+Hexagonal platter
+
 ![](./images/E8641CR-d1.jpg)
-    
-    Jar with cover
-    
+
+Jar with cover
+
 ![](./images/CR9672-d1.jpg)
-    
-    Tea bowl
+
+Tea bowl

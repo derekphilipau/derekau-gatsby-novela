@@ -1,6 +1,6 @@
 ---
-title: Repair
-author: Derek Au
+title: "Repair"
+author: "Derek Au"
 date: 2007-11-19
 hero: ./images/IMG_9427.jpg
 excerpt: 

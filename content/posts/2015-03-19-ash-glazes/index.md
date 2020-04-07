@@ -1,6 +1,6 @@
 ---
-title: Ash Glazes
-author: Derek Au
+title: "Ash Glazes"
+author: "Derek Au"
 date: 2015-03-19
 hero: ./images/IMG_9421-TBF40WA60.jpg
 excerpt: 
@@ -21,38 +21,38 @@ A great way to make an ash glaze is to mix any type of ash with your stoneware b
 Below are tests of a local Jiangxi stoneware body, Tianbao, mixed with unwashed ash from my wood stove.  Glazes dipped onto bisqued porcelain and dark stoneware tiles, then fired in reduction to Orton Cone 10.
 
 ![](./images/IMG_9421-TBF40WA60.jpg)
-    
-    Stoneware 40% Wood Ash 60%. Orton Cone 10 Reduction.
-    
+
+Stoneware 40% Wood Ash 60%. Orton Cone 10 Reduction.
+
 ![](./images/IMG_9422-TBF40WA60.jpg)
-    
-    Stoneware 40% Wood Ash 60%. Orton Cone 10 Reduction.
-    
+
+Stoneware 40% Wood Ash 60%. Orton Cone 10 Reduction.
+
 ![](./images/IMG_9419-TBF50WA501.jpg)
-    
-    Stoneware 50% Wood Ash 50%. Orton Cone 10 Reduction.
-    
+
+Stoneware 50% Wood Ash 50%. Orton Cone 10 Reduction.
+
 ![](./images/IMG_9420-TBF50WA50.jpg)
-    
-    Stoneware 50% Wood Ash 50%. Orton Cone 10 Reduction.
-    
+
+Stoneware 50% Wood Ash 50%. Orton Cone 10 Reduction.
+
 
 ### Rice Straw Ash with Local Stoneware
 
 Below are tests of a local Jiangxi stoneware body, Tianbao, with Rice Straw Ash.
 
 ![](./images/IMG_9940-TBF6DCH4.jpg)
-    
-    Clay 60% Straw Ash 40%. Orton Cone 10 Reduction.
-    
+
+Clay 60% Straw Ash 40%. Orton Cone 10 Reduction.
+
 ![](./images/IMG_9939-TBF5DCH5.jpg)
-    
-    Clay 50% Straw Ash 50%. Orton Cone 10 Reduction.
-    
+
+Clay 50% Straw Ash 50%. Orton Cone 10 Reduction.
+
 ![](./images/IMG_9937-TBF4DCH6.jpg)
-    
-    Clay 40% Straw Ash 60%. Orton Cone 10 Reduction.
-    
+
+Clay 40% Straw Ash 60%. Orton Cone 10 Reduction.
+
 
 ### Glaze Ash with Local Stoneware
 
@@ -63,21 +63,21 @@ Jingdezhen glaze ash before sieving
 Below are tests of a local Jiangxi stoneware body, Tianbao, with a traditional Jingdezhen glaze ash called _Er Hui_.
 
 ![](./images/IMG_9616-1.jpg)
-    
-    20% Glaze Ash
-    
+
+20% Glaze Ash
+
 ![](./images/IMG_9617-1.jpg)
-    
-    30% Glaze Ash
-    
+
+30% Glaze Ash
+
 ![](./images/IMG_9618-1.jpg)
-    
-    40% Glaze Ash
-    
+
+40% Glaze Ash
+
 ![](./images/IMG_9619-1.jpg)
-    
-    50% Glaze Ash
-    
+
+50% Glaze Ash
+
 
 ### High Fire Glazes Ash Recipes
 
@@ -86,22 +86,22 @@ Some ash glazes from [The Complete Guide to High Fire Glazes](https://books.goo
 ### Basic Ash
 
 ![](./images/IMG_9431-Basic-Ash.jpg)
-    
-    Basic Ash on porcelain, 60 mesh wood ash
-    
+
+Basic Ash on porcelain, 60 mesh wood ash
+
 ![](./images/IMG_9430-Basic-Ash.jpg)
-    
-    Basic Ash on stoneware, 60 mesh wood ash
-    
+
+Basic Ash on stoneware, 60 mesh wood ash
+
 
 ### Titus-Zella Wood Ash
 
 This recipe, listed in _High-Fire Glazes_, is simply 50% wood ash and 50% custer feldspar.
 
 ![](./images/IMG_9424-Titus-Zella-Wood-Ash.jpg)
-    
+
 ![](./images/IMG_9423-Titus-Zella-Wood-Ash.jpg)
-    
+
 
 ### Basic Aerni Ash
 
@@ -123,9 +123,9 @@ Feldspar 40
 Ball Clay 20
 
 ![](./images/IMG_9426-Leach-Ash.jpg)
-    
+
 ![](./images/IMG_9427-Leach-Ash.jpg)
-    
+
 
 ### Libby Pickard Ash Glaze
 
@@ -174,30 +174,30 @@ Robert Tichane’s excellent book [Ash Glazes](http://books.google.com/books/ab
 _As you can see in the third picture, the soluble salts tend to permeate bisque ware, possibly decreasing body melting temperature and increasing warping.  (It would be interesting to compare the effects of solubles on a raw-glazed tile.)  Solubles are troublesome for other reasons, of course.  Water should not be removed from an already mixed glaze batch, and safety is a concern._
 
 ![](./images/DSCF2054_SWA-Tichane-100.jpg)
-    
-    Tichane Synthetic Ash 100%. Porcelain, Orton Cone 11 Reduction.
-    
+
+Tichane Synthetic Ash 100%. Porcelain, Orton Cone 11 Reduction.
+
 ![](./images/DSCF2057_SWA-Tichane-100.jpg)
-    
-    Tichane Synthetic Ash 100%. Stoneware, Orton Cone 11 Reduction.
-    
+
+Tichane Synthetic Ash 100%. Stoneware, Orton Cone 11 Reduction.
+
 ![](./images/DSCF2058_SWA-Tichane-100.jpg)
-    
-    Tichane Synthetic Ash 100%. Porcelain, Orton Cone 11 Reduction.
-    
+
+Tichane Synthetic Ash 100%. Porcelain, Orton Cone 11 Reduction.
+
 
 ### Robert Tichane's Synthetic Ash 50%, Stoneware 50%
 
 _Tichane’s recipe is interesting because of the soluble components that emulate unwashed wood ash.  And of all the synthetic ash recipes I tested, Tichane’s comes closest to the feel of real unwashed wood ash glazes._
 
 ![](./images/DSCF2055_SWA-Tichane-50-TBF-50.jpg)
-    
-    Porcelain, Orton Cone 11 Reduction.
-    
+
+Porcelain, Orton Cone 11 Reduction.
+
 ![](./images/DSCF2056_SWA-Tichane-50-TBF-501.jpg)
-    
-    Stoneware, Orton Cone 11 Reduction.
-    
+
+Stoneware, Orton Cone 11 Reduction.
+
 
 ### Maritaro Onishi's Recipe
 
@@ -215,13 +215,13 @@ _Tichane’s recipe is interesting because of the soluble components that emulat
 _Tichane notes that impurities in the feldspar and kaolin may add iron and manganese.  However, in my test I added an additional 2% red iron oxide and 1.2% manganese dioxide._
 
 ![](./images/DSCF2061_SWA-Oshini-2RIO-1.2MnO-50-TBF-50.jpg)
-    
-    Porcelain, Orton Cone 11 Reduction
-    
+
+Porcelain, Orton Cone 11 Reduction
+
 ![](./images/DSCF2062_SWA-Oshini-2RIO-1.2MnO-50-TBF-501.jpg)
-    
-    Stoneware, Orton Cone 11 Reduction
-    
+
+Stoneware, Orton Cone 11 Reduction
+
 
 ### Etsuzo Katou's Recipe
 
@@ -239,13 +239,13 @@ John Neely on the Clayart mailing list mentions Etsuzo Katou who published anoth
 _I accidentally used 2% Manganese in my test glaze._
 
 ![](./images/DSCF2059_SWA-Katou-2MnO-50-TBF-50.jpg)
-    
-    Porcelain, Orton Cone 11 Reduction
-    
+
+Porcelain, Orton Cone 11 Reduction
+
 ![](./images/DSCF2060_SWA-Katou-2MnO-50-TBF-50.jpg)
-    
-    Stoneware, Orton Cone 11 Reduction
-    
+
+Stoneware, Orton Cone 11 Reduction
+
 
 ### Joseph Grebanier's Recipe
 
@@ -300,40 +300,40 @@ Grebanier’s Pine Ash recipe was later simplified by Robert Tichane in his _As
 _In the following tests I substituted Buckingham Feldspar for my local Potash Feldspar._
 
 ![](./images/DSCF2063_SWA-Grebanier-1MnO-50-TBF-50.jpg)
-    
-    50% Stoneware, %50 Synthetic Ash. Porcelain, Orton Cone 11 Reduction
-    
+
+50% Stoneware, %50 Synthetic Ash. Porcelain, Orton Cone 11 Reduction
+
 ![](./images/DSCF2064_SWA-Grebanier-1MnO-50-TBF-50.jpg)
-    
-    50% Stoneware, %50 Synthetic Ash. Stoneware, Orton Cone 11 Reduction
-    
+
+50% Stoneware, %50 Synthetic Ash. Stoneware, Orton Cone 11 Reduction
+
 ![](./images/DSCF2658_TBF40GrebMWA60_WEB1800.jpg)
-    
-    40% Stoneware, %60 Synthetic Ash. Porcelain, Orton Cone 12 Reduction
-    
+
+40% Stoneware, %60 Synthetic Ash. Porcelain, Orton Cone 12 Reduction
+
 ![](./images/DSCF2659_TBF40GrebMWA60_WEB1800.jpg)
-    
-    40% Stoneware, %60 Synthetic Ash. Stoneware, Orton Cone 12 Reduction
-    
+
+40% Stoneware, %60 Synthetic Ash. Stoneware, Orton Cone 12 Reduction
+
 ![](./images/DSCF2673_LeachAsh_GrebMWA_WEB1800.jpg)
-    
-    Leach’s Basic Ash Glaze. Wood Ash (sub Synthetic Ash) 40, Feldspar 40, Ball Clay 20. Porcelain, Orton Cone 12 Reduction
-    
+
+Leach’s Basic Ash Glaze. Wood Ash (sub Synthetic Ash) 40, Feldspar 40, Ball Clay 20. Porcelain, Orton Cone 12 Reduction
+
 ![](./images/DSCF2674_LeachAsh_GrebMWA_WEB1800.jpg)
-    
-    Leach’s Basic Ash Glaze. Wood Ash (sub Synthetic Ash) 40, Feldspar 40, Ball Clay 20. Stoneware, Orton Cone 12 Reduction
-    
+
+Leach’s Basic Ash Glaze. Wood Ash (sub Synthetic Ash) 40, Feldspar 40, Ball Clay 20. Stoneware, Orton Cone 12 Reduction
+
 
 ### Grebanier's Synthetic Pine Ash Recipe (simplified)
 
 ![](./images/DSCF2660_TBF50GrebPine50_WEB1800.jpg)
-    
-    Stoneware Body 50%, Synthetic Pine Ash 50%. Porcelain, Orton Cone 12 Reduction
-    
+
+Stoneware Body 50%, Synthetic Pine Ash 50%. Porcelain, Orton Cone 12 Reduction
+
 ![](./images/DSCF2661_TBF50GrebPine50_WEB1800.jpg)
-    
-    Stoneware Body 50%, Synthetic Pine Ash 50%. Stoneware, Orton Cone 12 Reduction
-    
+
+Stoneware Body 50%, Synthetic Pine Ash 50%. Stoneware, Orton Cone 12 Reduction
+
 
 ### Synthetic Ashes in Low-iron Glazes
 
@@ -346,17 +346,17 @@ One of the most important lessons to learn from using synthetic ash is not neces
 One of my favorite ways of making new glazes is to simply mix a flux or ash with a clay body.  This method is usually used with iron-rich stonewares but works just as well for cleaner stoneware and porcelain bodies.
 
 ![](./images/DSCF3308_DSGB60JGMWA40.jpg)
-    
-    Porcleain Body 60%, Synthetic Wood Ash 40%. Orton Cone 12 Reduction
-    
+
+Porcleain Body 60%, Synthetic Wood Ash 40%. Orton Cone 12 Reduction
+
 ![](./images/DSCF3309_DSGB50JGMWA50.jpg)
-    
-    Porcleain Body 50%, Synthetic Wood Ash 50%. Orton Cone 12 Reduction
-    
+
+Porcleain Body 50%, Synthetic Wood Ash 50%. Orton Cone 12 Reduction
+
 ![](./images/DSCF3310_DSGB40JGMWA60.jpg)
-    
-    Porcleain Body 40%, Synthetic Wood Ash 60%. Orton Cone 12 Reduction
-    
+
+Porcleain Body 40%, Synthetic Wood Ash 60%. Orton Cone 12 Reduction
+
 
 ### Grebanier Synthetic Common Ash, reduced Iron and Manganese
 
@@ -365,43 +365,43 @@ For the following three tests, the amount of Iron and Manganese in the synthetic
 The first test results in a lovely semi-matte glaze, while the last two tests are passable celadons.
 
 ![](./images/DSCF3300_609-60-JGMWA-40-RIOMN33percent.jpg)
-    
-    Porcleain Body 60%, Synthetic Wood Ash 40%. Orton Cone 12 Reduction
-    
+
+Porcleain Body 60%, Synthetic Wood Ash 40%. Orton Cone 12 Reduction
+
 ![](./images/DSCF3301_609-50-JGMWA-50-RIOMN33percent.jpg)
-    
-    Porcleain Body 50%, Synthetic Wood Ash 50%. Orton Cone 12 Reduction
-    
+
+Porcleain Body 50%, Synthetic Wood Ash 50%. Orton Cone 12 Reduction
+
 ![](./images/DSCF3302_609-40-JGMWA-60-RIOMN33percent.jpg)
-    
-    Porcleain Body 40%, Synthetic Wood Ash 60%. Orton Cone 12 Reduction
-    
+
+Porcleain Body 40%, Synthetic Wood Ash 60%. Orton Cone 12 Reduction
+
 
 ### Grebanier Synthetic Common Ash and Feldspar
 
 _This is basically the Titus-Zella Wood Ash above._
 
 ![](./images/DSCF3312_PF60JGMWA40.jpg)
-    
-    Potash 60%, Synthetic Wood Ash 40%. Orton Cone 12 Reduction
-    
+
+Potash 60%, Synthetic Wood Ash 40%. Orton Cone 12 Reduction
+
 ![](./images/DSCF3311_PF50JGMWA50.jpg)
-    
-    Potash 50%, Synthetic Wood Ash 50%. Orton Cone 12 Reduction
-    
+
+Potash 50%, Synthetic Wood Ash 50%. Orton Cone 12 Reduction
+
 
 ### Adjusting the Feldspar/Synthetic Wood Ash glazes
 
 For the potash feldspar/synthetic wood ash mixes above, I reduced the amount of iron and manganese (1/3 of original recipe) as well as added silica to reduce crazing.  With 10% Silica we’ve eliminated the crazing.
 
 ![](./images/DSCF3305_PF55S5JGMWA40RIOMN.33Percent.jpg)
-    
-    Potash 55%, Silica 5%, Synthetic Wood Ash 40%. Orton Cone 12 Reduction
-    
+
+Potash 55%, Silica 5%, Synthetic Wood Ash 40%. Orton Cone 12 Reduction
+
 ![](./images/DSCF3304_PF50S10JGMWA40RIOMN.33Percent.jpg)
-    
-    Potash 50%, Silica 10%, Synthetic Wood Ash 40%. Orton Cone 12 Reduction
-    
+
+Potash 50%, Silica 10%, Synthetic Wood Ash 40%. Orton Cone 12 Reduction
+
 
 ### Making Your Own Synthetic Ash
 

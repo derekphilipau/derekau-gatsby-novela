@@ -1,8 +1,8 @@
 ---
-title: Cone 6 Oxidation Blue Triaxial Blend
-author: Derek Au
+title: "Cone 6 Oxidation Blue Triaxial Blend"
+author: "Derek Au"
 date: 2018-07-20
-hero: 
+hero: ./images/BLUE_TRIAX_ALL.jpg
 excerpt: 
 ---
 

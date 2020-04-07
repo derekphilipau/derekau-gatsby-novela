@@ -1,8 +1,8 @@
 ---
-title: Iron Saturate Glazes
-author: Derek Au
+title: "Iron Saturate Glazes"
+author: "Derek Au"
 date: 2018-09-22
-hero: 
+hero: ./images/APC_0365edit.jpg
 excerpt: 
 ---
 
@@ -23,18 +23,18 @@ Note: The "educated guess" for our initial prototype glaze is informed in large 
 [http://carol.knighten.org/](http://carol.knighten.org/)
 
 ![](./images/carolKnighten.jpg)
-    
+
 ![](./images/GlazyKakis.jpg)
-    
+
 
 I made a mistake on the Si:Al ratios for each biaxial column. The ratios should be approximately 4.3, 5.4, 7, 9.3, and 12.8
 
 ![](./images/Kaki_Stull_Chart.png)
 
 ![](./images/glazyrecipes2.png)
-    
+
 ![](./images/glazyrecipes1.png)
-    
+
 
 Here are the results of the Iron-Saturate Biaxial. While the reduction firing with uncontrolled cooling results in brown, metallic surfaces, the oxidation firing with a controlled cool and hold at 1700°F (925°C) gives us more interesting results. The biaxial reveals that an Si:Al ratio of around 9-9.5 (the fourth column) promotes redder glazes. In particular, tile D4 (4th row, 4th column) seems promising.
 
@@ -95,9 +95,9 @@ Adding Titanium Dioxide in 1% increments to tile D4 from the Iron-Saturate Biaxi
 A variation of the glaze from the original biaxial:  [https://glazy.org/recipes/25001](https://glazy.org/recipes/25001)
 
 ![](./images/l_25001.5bf0d2fee9f89.jpg)
-    
+
 ![](./images/DSC00983_square.jpg)
-    
+
 ![](./images/All.jpg)
-    
+
 ![](./images/SON09397-2.jpg)

@@ -1,6 +1,6 @@
 ---
-title: Paper cutting
-author: Derek Au
+title: "Paper cutting"
+author: "Derek Au"
 date: 2007-11-18
 hero: ./images/IMG_0378.jpg
 excerpt: 

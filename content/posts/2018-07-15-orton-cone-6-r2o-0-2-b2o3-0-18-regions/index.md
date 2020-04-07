@@ -1,8 +1,8 @@
 ---
-title: Orton Cone 6 Clear Glazes
-author: Derek Au
+title: "Orton Cone 6 Clear Glazes"
+author: "Derek Au"
 date: 2018-07-15
-hero: 
+hero: ./images/ALL-1.jpg
 excerpt: 
 ---
 
@@ -18,22 +18,13 @@ Out of these tests, there were two glazes that I preferred.  The first, [Sue M
 
 The second glaze is a shop glaze available at the Wellsville Creative Arts Center called [WCAC Celadon Clear](https://glazy.org/recipes/20547).  With B2O3 at 0.45, it is really high in boron and possibly less durable than the lower-boron clears I tested.  However, [WCAC Celadon Clear](https://glazy.org/recipes/20547) is by far the clearest glaze I've tested, almost like a layer of pure glass or honey.  Even on dark stoneware it's really clear with almost no clouding.
 
-![](./images/l_10997.5b3ea6c455b73.jpg)
-    
-    Sue's Clear on cone 6 porcelain
-    
-![](./images/l_10997.5b3ea795237bf.jpg)
-    
-    Sue's Clear on cone 6 Brooklyn Red
-    
-![](./images/l_20547.5b3ec66e0ea8e.jpg)
-    
-    WCAC Celadon Clear on cone 6 porcelain
-    
-![](./images/l_20547.5b3ec69d70ffd.jpg)
-    
-    WCAC Celadon Clear on cone 6 Brooklyn Red
-    
+![Sue's Clear on cone 6 porcelain](./images/l_10997.5b3ea6c455b73.jpg)
+
+![Sue's Clear on cone 6 Brooklyn Red](./images/l_10997.5b3ea795237bf.jpg)
+
+![WCAC Celadon Clear on cone 6 porcelain](./images/l_20547.5b3ec66e0ea8e.jpg)
+
+![WCAC Celadon Clear on cone 6 Brooklyn Red](./images/l_20547.5b3ec69d70ffd.jpg)
 
 Being new to cone 6, I was curious as to the effect of boron levels on clear glazes.  So, I created two biaxials, both with R2O fixed at 0.2.  In the first [Sue's Clear](https://glazy.org/recipes/10997) inspired biaxial, B2O3 is set at 0.18.  In the second biaxial inspired by [Celadon Clear](https://glazy.org/recipes/20547), B2O3 is doubled to 0.36.
 
@@ -43,9 +34,7 @@ Standard Cone 6 Porcelain Body #551
 
 [Link to full-size image here.](http://www.derekau.net/wp-content/uploads/2014/12/ALL-1.jpg)
 
-![](./images/ALL-1.jpg)
-
-Same chart but with words describing each test glaze:
+![Same chart but with words describing each test glaze:](./images/ALL-1.jpg)
 
 ![](./images/ALLwords.jpg)
 
@@ -66,9 +55,9 @@ The best clear resulting from the B2O3 0.36 biaxial is here: [C6 R2O 0.2 B2O3 0
 It is similar to [WCAC Celadon Clear](https://glazy.org/recipes/20547) in it's glossy, transparent quality.
 
 ![](./images/e3_IMG_1594.jpg)
-    
+
 ![](./images/e4_IMG_1595.jpg)
-    
+
 
 ### High-Boron Clears
 
@@ -77,9 +66,9 @@ After testing WCAC Celadon Clear and seeing the results of my B2O3 0.36 biaxial
 Coincidentally, I tested an old glaze recipe posted to the Clayart mailing list by Laura Speirs in 1996:  [https://glazy.org/recipes/21102](https://glazy.org/recipes/21102)  As with the WCAC Celadon Clear, the Speirs recipe is also very high in Boron (0.51), and it also fires very clear and glossy:
 
 ![](./images/leia_APC_0193.jpg)
-    
+
 ![](./images/leia_APC_0194.jpg)
-    
+
 
 ### VC Easy Glossy
 
@@ -114,13 +103,13 @@ Below is the triaxial blend using Copper Carbonate and Red Iron Oxide.
 ![](./images/VCEZ_lg.jpg)
 
 ![](./images/a1APC_0158-1.jpg)
-    
+
 ![](./images/e5APC_0189.jpg)
-    
+
 ![](./images/e1APC_0181.jpg)
-    
+
 ![](./images/e2APC_0182.jpg)
-    
+
 
 ### Resources
 
@@ -130,10 +119,6 @@ Below is the triaxial blend using Copper Carbonate and Red Iron Oxide.
 
 [Matt Katz Boron in Glazes](https://ceramicartsnetwork.org/wp-content/uploads/2008/10/TF_BoroninGlazes_0912.pdf)
 
-![](./images/Screen-Shot-2018-07-20-at-09.41.34.png)
-    
-    From Safety & Durable Glazes Presentation
-    
-![](./images/Screen-Shot-2018-07-20-at-09.44.13.png)
-    
-    From Boron in Glazes
+![From Safety & Durable Glazes Presentation](./images/Screen-Shot-2018-07-20-at-09.41.34.png)
+
+![From Boron in Glazes](./images/Screen-Shot-2018-07-20-at-09.44.13.png)

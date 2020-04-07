@@ -1,6 +1,6 @@
 ---
-title: The carrier
-author: Derek Au
+title: "The carrier"
+author: "Derek Au"
 date: 2008-03-30
 hero: ./images/IMG_1074.jpg
 excerpt: 

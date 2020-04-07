@@ -1,6 +1,6 @@
 ---
-title: Glazy glaze recipes most used materials
-author: Derek Au
+title: "Glazy glaze recipes most used materials"
+author: "Derek Au"
 date: 2016-01-01
 hero: ./images/MidFireBase.jpg
 excerpt: 

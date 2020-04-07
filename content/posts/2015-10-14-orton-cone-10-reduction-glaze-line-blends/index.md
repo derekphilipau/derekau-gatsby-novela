@@ -1,6 +1,6 @@
 ---
-title: Orton Cone 10 Reduction Glaze Line Blends
-author: Derek Au
+title: "Orton Cone 10 Reduction Glaze Line Blends"
+author: "Derek Au"
 date: 2015-10-14
 hero: ./images/RIO_0_to_10.jpg
 excerpt: 

@@ -1,8 +1,8 @@
 ---
-title: Glazy One Year Old
-author: Derek Au
+title: "Glazy One Year Old"
+author: "Derek Au"
 date: 2016-08-10
-hero: 
+hero: ./images/numbers.jpg
 excerpt: 
 ---
 

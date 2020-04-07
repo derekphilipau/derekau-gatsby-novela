@@ -1,6 +1,6 @@
 ---
-title: Antique Market
-author: Derek Au
+title: "Antique Market"
+author: "Derek Au"
 date: 2007-12-24
 hero: ./images/IMG_0264.jpg
 excerpt: 

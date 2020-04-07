@@ -1,6 +1,6 @@
 ---
-title: Razor trimming
-author: Derek Au
+title: "Razor trimming"
+author: "Derek Au"
 date: 2016-05-11
 hero: ./images/IMG_2704_edit.jpg
 excerpt: 

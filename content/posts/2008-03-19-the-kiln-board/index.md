@@ -1,6 +1,6 @@
 ---
-title: The Kiln Board
-author: Derek Au
+title: "The Kiln Board"
+author: "Derek Au"
 date: 2008-03-19
 hero: ./images/IMG_1805.jpg
 excerpt: 

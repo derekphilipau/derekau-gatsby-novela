@@ -1,10 +1,10 @@
 ---
-title: Colored Mason Stains in Porcelain Slips
-author: Derek Au
+title: "Colored Mason Stains in Porcelain Slips"
+author: "Derek Au"
 date: 2019-02-09
-hero: 
+hero: ./images/MasonStainSlips.jpg
 excerpt: 
-coverImage: "MasonStainSlips.jpg"
+
 ---
 
 I've added some simple slip recipes to illustrate how one can use the Mason Stains added yesterday.  These slip recipes use a material called "English Porcelain", which is simply an analysis of a typical high-fire porcelain body, as well as 8-10% added Mason Stain.  I hope you will add color tests, too!

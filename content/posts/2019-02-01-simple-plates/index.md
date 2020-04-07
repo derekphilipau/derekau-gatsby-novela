@@ -1,8 +1,8 @@
 ---
-title: Simple Plates
-author: Derek Au
+title: "Simple Plates"
+author: "Derek Au"
 date: 2019-02-01
-hero: 
+hero: ./images/All.jpg
 excerpt: 
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: Digital Scales for Weighing Glazes
-author: Derek Au
+title: "Digital Scales for Weighing Glazes"
+author: "Derek Au"
 date: 2015-09-21
-hero: ./IMG_1173.jpg
+hero: ./images/IMG_1173.jpg
 excerpt: 
 ---
 

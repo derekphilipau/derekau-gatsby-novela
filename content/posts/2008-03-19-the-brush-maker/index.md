@@ -1,6 +1,6 @@
 ---
-title: The Brush Seller
-author: Derek Au
+title: "The Brush Seller"
+author: "Derek Au"
 date: 2008-03-19
 hero: ./images/IMG_17981.jpg
 excerpt: 

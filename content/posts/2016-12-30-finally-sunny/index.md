@@ -1,6 +1,6 @@
 ---
-title: Finally Sunny
-author: Derek Au
+title: "Finally Sunny"
+author: "Derek Au"
 date: 2016-12-30
 hero: ./images/SON01962.jpg
 excerpt: 

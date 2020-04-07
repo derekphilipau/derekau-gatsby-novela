@@ -1,7 +1,7 @@
 ---
-title: 區建公 Au Kin Kung
+title: "區建公 Au Kin Kung"
 slug: 2014-12-27-au-kin-kung
-author: Derek Au
+author: "Derek Au"
 date: 2014-12-27
 hero: ./images/AllFinal.jpg
 excerpt: 

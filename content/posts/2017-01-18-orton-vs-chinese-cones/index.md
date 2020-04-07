@@ -1,6 +1,6 @@
 ---
-title: Orton vs. Chinese Cones
-author: Derek Au
+title: "Orton vs. Chinese Cones"
+author: "Derek Au"
 date: 2017-01-18
 hero: ./images/IMG_4343.jpg
 excerpt: 

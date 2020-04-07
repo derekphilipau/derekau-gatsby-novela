@@ -1,6 +1,6 @@
 ---
-title: Jingdezhen Bookstore
-author: Derek Au
+title: "Jingdezhen Bookstore"
+author: "Derek Au"
 date: 2008-02-18
 hero: ./images/IMG_27651.jpg
 excerpt: 

@@ -1,8 +1,8 @@
 ---
-title: Yangchow Internment Camp
-author: Derek Au
+title: "Yangchow Internment Camp"
+author: "Derek Au"
 date: 2016-03-18
-hero: 
+hero: ./images/12-Hospital-Kitchen-1.jpg
 excerpt: 
 ---
 

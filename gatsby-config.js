@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/derekau-gatsby-novela",
   siteMetadata: {
     title: `Derek Philip Au`,
     name: `Derek`,

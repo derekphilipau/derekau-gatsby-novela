@@ -1,6 +1,6 @@
 ---
-title: Sculpture Factory
-author: Derek Au
+title: "Sculpture Factory"
+author: "Derek Au"
 date: 2007-10-03
 hero: ./images/IMG_9737.jpg
 excerpt: 

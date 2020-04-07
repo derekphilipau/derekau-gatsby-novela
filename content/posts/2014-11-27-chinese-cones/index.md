@@ -1,6 +1,6 @@
 ---
-title: Chinese Cones
-author: Derek Au
+title: "Chinese Cones"
+author: "Derek Au"
 date: 2014-11-27
 hero: ./images/IMG_3145.jpg
 excerpt: 

@@ -1,6 +1,6 @@
 ---
-title: From, In, to Jingdezhen
-author: Derek Au
+title: "From, In, to Jingdezhen"
+author: "Derek Au"
 date: 2017-09-18
 hero: ./images/IMG_5848.jpg
 excerpt: 
@@ -13,17 +13,17 @@ For this exhibition I refined the porcelain slipware that I began last year, exp
 [Gimhae Clayarch Museum Exhibition Page](https://www.clayarch.org/web/board/BD_board.view.do?seq=MjAxNzA3MTMxMDA2MzAzMTA%3D&bbsCd=1080&pageType=&showSummaryYn=N&delDesc=&q_currPage=1&q_sortName=&q_sortOrder=&q_ctgCd=&q_searchKeyType=&q_searchKey=&q_searchDt=103&q_searchVal=&tab=)
 
 ![](./images/IMG_5848.jpg)
-    
+
 ![](./images/IMG_5846_2000.jpg)
-    
+
 ![](./images/SON03835_2000.jpg)
-    
+
 ![](./images/IMG_5834_2000.jpg)
-    
+
 ![](./images/SON03812_2000.jpg)
-    
+
 ![](./images/SON03819_2000.jpg)
-    
+
 
 2017 클레이아크김해미술관 하반기 기획전  
 **경덕진; 백자에 탐닉하다****From, In, to Jingdezhen; Eight Experiences**

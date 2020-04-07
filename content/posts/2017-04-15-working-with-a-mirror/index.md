@@ -1,6 +1,6 @@
 ---
-title: Working with a mirror
-author: Derek Au
+title: "Working with a mirror"
+author: "Derek Au"
 date: 2017-04-15
 hero: ./images/IMG_4998edit.jpg
 excerpt: 

@@ -1,6 +1,6 @@
 ---
-title: One ton
-author: Derek Au
+title: "One ton"
+author: "Derek Au"
 date: 2015-07-27
 hero: ./images/DSCF4142_web.jpg
 excerpt: 

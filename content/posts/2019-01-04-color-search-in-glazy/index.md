@@ -1,10 +1,10 @@
 ---
-title: Color Search in Glazy
-author: Derek Au
+title: "Color Search in Glazy"
+author: "Derek Au"
 date: 2019-01-04
-hero: 
+hero: ./images/Pantone2019.jpg
 excerpt: 
-coverImage: "Pantone2019.jpg"
+
 ---
 
 Happy New Year!  Wondering how to mix up a glaze of Living Coral, Pantone's official color of 2019?  Use the Glazy color search!

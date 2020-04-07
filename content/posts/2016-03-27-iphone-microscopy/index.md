@@ -1,8 +1,8 @@
 ---
-title: Smartphone Microscopy
-author: Derek Au
+title: "Smartphone Microscopy"
+author: "Derek Au"
 date: 2016-03-27
-hero: 
+hero: ./images/IMG_0410_white.jpg
 excerpt: 
 ---
 
@@ -27,41 +27,41 @@ The images from the iPhone with attached lens look much better than my USB micro
 The lens attached to the iPhone. On top is a plastic cover which is easily scratched. I removed it with a Dremel.
 
 ![](./images/IMG_0353_edit.jpg)
-    
-    View of ruler through attached iPhone lens
-    
+
+View of ruler through attached iPhone lens
+
 ![](./images/IMG_0356_nohdr.jpg)
-    
-    View of ruler through attached iPhone lens
-    
+
+View of ruler through attached iPhone lens
+
 ![](./images/IMG_0285edit.jpg)
-    
-    Qing Dynasty Guan glaze
-    
+
+Qing Dynasty Guan glaze
+
 ![](./images/IMG_0273_white.jpg)
-    
-    Qing Dynasty Guan glaze
-    
+
+Qing Dynasty Guan glaze
+
 ![](./images/IMG_0313edit.jpg)
-    
-    A Wanli dish shard
-    
+
+A Wanli dish shard
+
 ![](./images/IMG_0296_white.jpg)
-    
-    Blue & White birds in the Wanli shard
-    
+
+Blue & White birds in the Wanli shard
+
 ![](./images/IMG_0242_editwhite.jpg)
-    
-    Teadust Glaze
-    
+
+Teadust Glaze
+
 ![](./images/IMG_0410_white.jpg)
-    
-    Iron Red (Kaki) Glaze
-    
+
+Iron Red (Kaki) Glaze
+
 ![](./images/IMG_0253_white.jpg)
-    
-    A celadon glaze I'm working on
-    
+
+A celadon glaze I'm working on
+
 
 ### Eyeskey 12x Micro Lens
 
@@ -76,52 +76,52 @@ The Eyeskey model is designed much better.  An adapter slides perfectly over th
 The Eyeskey lens with phone adapter. Much better design than the Supereyes.
 
 ![](./images/IMG_1828.jpg)
-    
-    Viewed using the Eyeskey lens. Notice that there is no circular tube visible.
-    
+
+Viewed using the Eyeskey lens. Notice that there is no circular tube visible.
+
 ![](./images/IMG_1831.jpg)
-    
-    Zooming in with fingers (digital zoom). Magnification is higher than the Supereyes model.
-    
+
+Zooming in with fingers (digital zoom). Magnification is higher than the Supereyes model.
+
 ![](./images/IMG_2003_edit.jpg)
-    
-    Another Iron Red glaze
-    
+
+Another Iron Red glaze
+
 ![](./images/IMG_2018_edit.jpg)
-    
-    Strange rivulets and eyes in a Tenmoku glaze containing Rice Straw Ash
-    
+
+Strange rivulets and eyes in a Tenmoku glaze containing Rice Straw Ash
+
 ![](./images/IMG_2043_edit_jun_heitao.jpg)
-    
-    A Jun celadon glaze on black stoneware
-    
+
+A Jun celadon glaze on black stoneware
+
 ![](./images/IMG_2055_edit_mattwood.jpg)
-    
-    Porcelain stone and wood ash with carbon trapping and iron spots
-    
+
+Porcelain stone and wood ash with carbon trapping and iron spots
+
 ![](./images/IMG_2065_coleman.jpg)
-    
-    Coleman Kaki on porcelain, cone 9
-    
+
+Coleman Kaki on porcelain, cone 9
+
 
 ### Comparison of Supereyes and Eyeskey Lenses
 
 ![](./images/IMG_1983.jpg)
-    
-    Supereyes lens
-    
+
+Supereyes lens
+
 ![](./images/IMG_1987-1.jpg)
-    
-    Eyeskey lens
-    
+
+Eyeskey lens
+
 ![](./images/IMG_1985-1.jpg)
-    
-    Supereyes lens digital zoom
-    
+
+Supereyes lens digital zoom
+
 ![](./images/IMG_1993.jpg)
-    
-    Supereyes lens digital zoom
-    
+
+Supereyes lens digital zoom
+
 
 ### Microphonelens 8x Macro & 15x Micro Lens
 
@@ -134,33 +134,33 @@ These drawbacks are forgivable, though, as the quality of the images seems super
 For viewing glazes, both the 8x and 15x lenses are useful.  I would recommend the 15x (although of course it has a narrower depth of field).
 
 ![](./images/IMG_0372.jpg)
-    
-    The microphonelens case with lenses
-    
+
+The microphonelens case with lenses
+
 ![](./images/IMG_4206.jpg)
-    
-    The 15x microphonelens lens on an iPhone
-    
+
+The 15x microphonelens lens on an iPhone
+
 ![](./images/IMG_0363_8x.jpg)
-    
-    8x microphonelens macro lens
-    
+
+8x microphonelens macro lens
+
 ![](./images/IMG_0360_8x.jpg)
-    
-    8x microphonelens macro lens
-    
+
+8x microphonelens macro lens
+
 ![](./images/IMG_0331_15x.jpg)
-    
-    15x microphonelens micro lens
-    
+
+15x microphonelens micro lens
+
 ![](./images/IMG_0340_15x.jpg)
-    
-    15x microphonelens micro lens
-    
+
+15x microphonelens micro lens
+
 ![](./images/IMG_0355_8xdirty.jpg)
-    
-    Blurred image, lens just needs cleaning in a bit of water.
-    
+
+Blurred image, lens just needs cleaning in a bit of water.
+
 
 ### Stitching photos
 

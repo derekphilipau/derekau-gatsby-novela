@@ -1,6 +1,6 @@
 ---
-title: An old Porcelain Stone Mine
-author: Derek Au
+title: "An old Porcelain Stone Mine"
+author: "Derek Au"
 date: 2015-07-02
 hero: ./images/IMG_0835-detail.jpg
 excerpt: 
@@ -21,9 +21,9 @@ For this porcelain stone I created the following initial tests:
 - Pure porcelain stone, crushed, milled and sieved.
 - Porcelain body using porcelain stone and kaolin at 15-45%.
 - Lime-fluxed celadon glazes:
-    - Porcelain stone and 10-20% _Er Hui_ (Glaze Ash)
-    - Porcelain stone and 10-20% Wollastonite
-    - Porcelain stone and 10-20% Whiting
+- Porcelain stone and 10-20% _Er Hui_ (Glaze Ash)
+- Porcelain stone and 10-20% Wollastonite
+- Porcelain stone and 10-20% Whiting
 
 _Idealized “traditional” recipes are also based on two-component mixtures.  For glazes, porcelain stone was mixed with a flux like glaze ash.  For porcelain bodies, porcelain stone was simply mixed with a proportion of kaolin._
 
@@ -34,37 +34,37 @@ I also prepared two sets of test tiles for cone 10 and 12 firings.
 Stones of all types can be used in glazes.  Joseph Grebanier’s _[Chinese Stoneware Glazes](https://books.google.com/books?id=k1BQAAAAMAAJ&q=chinese+ceramic+glazes+grebanier&dq=chinese+ceramic+glazes+grebanier&hl=en&sa=X&ei=MDM-VdHJIpD-yQSj44AQ&ved=0CDwQ6AEwAg) _lists many recipes that use locally sourced granite.  And Brian Sutherland’s _[Glazes from Natural Sources](https://books.google.com/books/about/Glazes_from_Natural_Sources.html?id=uTlL9g88TsoC) _contains a wealth of information on the subject.
 
 ![](./images/IMG_0835.jpg)
-    
-    A sledge hammer is used to break off pieces of the hard porcelain stone
-    
+
+A sledge hammer is used to break off pieces of the hard porcelain stone
+
 ![](./images/IMG_0842.jpg)
-    
-    A very hard mortar and pestle is used to further break down the porcelain stone.
-    
+
+A very hard mortar and pestle is used to further break down the porcelain stone.
+
 ![](./images/IMG_0853-e1435825367327.jpg)
-    
-    The crushed porcelain stone is ball milled for four hours.
-    
+
+The crushed porcelain stone is ball milled for four hours.
+
 ![](./images/IMG_0857-e1452453995187.jpg)
-    
-    Even after milling, the mixture needs to be sieved.
-    
+
+Even after milling, the mixture needs to be sieved.
+
 ![](./images/IMG_0883.jpg)
-    
-    After sitting and decanting excess water, the mixture is dried on a plaster slab.
-    
+
+After sitting and decanting excess water, the mixture is dried on a plaster slab.
+
 ![](./images/IMG_0889.jpg)
-    
-    Because I’m in a hurry, the mixture is further dried on the stove.
-    
+
+Because I’m in a hurry, the mixture is further dried on the stove.
+
 ![](./images/IMG_0890.jpg)
-    
-    Porcelain body tests with increasing proportions of kaolin.
-    
+
+Porcelain body tests with increasing proportions of kaolin.
+
 ![](./images/IMG_0903.jpg)
-    
-    Fired porcelain body tests.
-    
+
+Fired porcelain body tests.
+
 ![](./images/IMG_0902.jpg)
-    
-    Fired porcelain glaze tests with increasing proportion of flux.
+
+Fired porcelain glaze tests with increasing proportion of flux.

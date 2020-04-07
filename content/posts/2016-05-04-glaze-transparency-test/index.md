@@ -1,6 +1,6 @@
 ---
-title: Glaze Transparency Test
-author: Derek Au
+title: "Glaze Transparency Test"
+author: "Derek Au"
 date: 2016-05-04
 hero: ./images/2A.jpg
 excerpt: 

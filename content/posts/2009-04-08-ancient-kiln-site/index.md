@@ -1,6 +1,6 @@
 ---
-title: Ancient Kiln Site
-author: Derek Au
+title: "Ancient Kiln Site"
+author: "Derek Au"
 date: 2009-04-08
 hero: ./images/IMG_3182.jpg
 excerpt: 

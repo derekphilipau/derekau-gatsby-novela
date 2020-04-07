@@ -1,6 +1,6 @@
 ---
-title: Photographing Artwork
-author: Derek Au
+title: "Photographing Artwork"
+author: "Derek Au"
 date: 2015-07-29
 hero: ./images/IMG_4170.jpg
 excerpt: 
@@ -29,17 +29,17 @@ Below are three photos taken with the same lens, ISO, white balance setting (Aut
 _Remember there is no “correct” color temperature.  You may prefer the cool window light, or the golden tones of late afternoon light.  The grey card is simply a reference._
 
 ![](./images/DSC1876_default_wb.jpg)
-    
-    Original with camera auto white balance
-    
+
+Original with camera auto white balance
+
 ![](./images/DSC1874_greycard.jpg)
-    
-    Using a grey card
-    
+
+Using a grey card
+
 ![](./images/DSC1876_corrected.jpg)
-    
-    Corrected in Photoshop using grey card
-    
+
+Corrected in Photoshop using grey card
+
 
 ### Color Calibration Target
 
@@ -56,13 +56,13 @@ There are times when you require lighting consistency (for instance when publi
 Below is one of my softboxes which I purchased from a cheap Chinese manufacturer.
 
 ![](./images/DSC1856-2_.jpg)
-    
-    Fluorescent Light Softbox
-    
+
+Fluorescent Light Softbox
+
 ![](./images/DSC1858-2_.jpg)
-    
-    Fluorescent Light Fixture
-    
+
+Fluorescent Light Fixture
+
 
 ### Color Temperature
 
@@ -95,21 +95,21 @@ Convinced that I was on the right track, I next tried taking some photographs wi
 Below you can see a comparison of my regular, cheap fluorescent lights with the Graphica tubes.  (The large image can be rolled over to switch between the two images.)  Apart from the lighting, both photos were taken using the exact same conditions.  In Lightroom, I only set the ColorChecker profile and adjusted white balance.
 
 ![](./images/DSC1851_Regular-lights-2.jpg)
-    
-    Regular Fluorescent Photography Lights
-    
+
+Regular Fluorescent Photography Lights
+
 ![](./images/DSC1832_Graphica-2.jpg)
-    
-    Philips Graphica 36W/950 T8 Fluorescent Lights, 5300 K
-    
+
+Philips Graphica 36W/950 T8 Fluorescent Lights, 5300 K
+
 ![](./images/Histogram-Regular-Lights.png)
-    
-    Histogram for Regular Fluorescent Lights
-    
+
+Histogram for Regular Fluorescent Lights
+
 ![](./images/Histogram-Graphica.png)
-    
-    Histogram for Philips Graphica
-    
+
+Histogram for Philips Graphica
+
 
 ### DIY Fluorescent Photography Light Fixture
 
@@ -118,13 +118,13 @@ I discovered that many photographers are already using fluorescent lights for ph
 In total I made four of these four-tube fixtures.  This is because I also help friends photograph their large ceramic paintings, and we need lighting longer than the 1.2 meters of the 36W tubes.
 
 ![](./images/DSC1758_-2.jpg)
-    
-    Light fixture attached to wheeled tripod.
-    
+
+Light fixture attached to wheeled tripod.
+
 ![](./images/DSC1765_-2.jpg)
-    
-    Back of light fixture.
-    
+
+Back of light fixture.
+
 
 For the photo of ceramics below, I used two four-tube fixtures as the side lighting.  In front of the fixtures I hung a sheet of translucent softbox fabric.
 
@@ -133,9 +133,9 @@ _Ideally, each light fixture should have six 36W tubes.  Four tubes still seems
 Scroll over the image to switch between my regular photography lights and the Graphica tube lights.
 
 ![](./images/DSC1843_Regular-lights-2-text.jpg)
-    
+
 ![](./images/DSC1825_Graphica-3-text.jpg)
-    
+
 
 ### Photographing Paintings and Porcelain Tiles
 
@@ -164,18 +164,18 @@ The large photo below is an HDR composite of the four smaller images above it. �
 _HDR can produce some interesting effects, but when photographing artwork I still haven’t come across a situation in which HDR beats a correctly exposed single shot._
 
 ![](./images/DSC1826_Graphica.jpg)
-    
-    ISO 100 105mm f/11 1/3s
-    
+
+ISO 100 105mm f/11 1/3s
+
 ![](./images/DSC1825_Graphica-2.jpg)
-    
-    ISO 100 105mm f/11 .6s
-    
+
+ISO 100 105mm f/11 .6s
+
 ![](./images/DSC1823_Graphica.jpg)
-    
-    ISO 100 105mm f/11 2.5s
-    
+
+ISO 100 105mm f/11 2.5s
+
 
 ![](./images/DSC1825_Graphica-2-text.jpg)
-    
+
 ![](./images/DSC1824-HDR_Graphica-2-text.jpg)

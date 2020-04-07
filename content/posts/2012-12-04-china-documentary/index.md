@@ -1,7 +1,7 @@
 ---
-title: 纪录片《china-瓷》
+title: "纪录片《china-瓷》"
 slug: 2012-12-04-china-documentary
-author: Derek Au
+author: "Derek Au"
 date: 2012-12-04
 hero: ./images/china-documentary.jpg
 excerpt: 

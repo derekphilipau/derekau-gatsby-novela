@@ -1,6 +1,6 @@
 ---
-title: Traditional Tea Dust
-author: Derek Au
+title: "Traditional Tea Dust"
+author: "Derek Au"
 date: 2014-02-09
 hero: 
 excerpt: 

@@ -1,6 +1,6 @@
 ---
-title: Winter in Jingdezhen
-author: Derek Au
+title: "Winter in Jingdezhen"
+author: "Derek Au"
 date: 2008-01-28
 hero: ./images/IMG_0576.jpg
 excerpt: 

@@ -1,6 +1,6 @@
 ---
-title: Mountains made of shards and bones
-author: Derek Au
+title: "Mountains made of shards and bones"
+author: "Derek Au"
 date: 2007-09-28
 hero: ./images/IMG_9709.jpg
 excerpt: 

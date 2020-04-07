@@ -1,6 +1,6 @@
 ---
-title: New kiln
-author: Derek Au
+title: "New kiln"
+author: "Derek Au"
 date: 2011-12-11
 hero: ./images/IMG_3599.jpg
 excerpt: 

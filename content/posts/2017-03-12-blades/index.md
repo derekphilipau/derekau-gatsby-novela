@@ -1,6 +1,6 @@
 ---
-title: Blades
-author: Derek Au
+title: "Blades"
+author: "Derek Au"
 date: 2017-03-12
 hero: ./images/IMG_4595-3edit.jpg
 excerpt: 

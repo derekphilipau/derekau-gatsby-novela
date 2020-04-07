@@ -1,6 +1,6 @@
 ---
-title: Traditional celadon
-author: Derek Au
+title: "Traditional celadon"
+author: "Derek Au"
 date: 2017-03-16
 hero: ./images/SON02655_edit.jpg
 excerpt: 

@@ -1,8 +1,8 @@
 ---
-title: Val Cushing's Handbook
-author: Derek Au
+title: "Val Cushing's Handbook"
+author: "Derek Au"
 date: 2019-01-29
-hero: 
+hero: ./images/VCPhotosAlfred.jpg
 excerpt: 
 ---
 

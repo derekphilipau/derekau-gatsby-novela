@@ -1,8 +1,8 @@
 ---
-title: Jenga
-author: Derek Au
+title: "Jenga"
+author: "Derek Au"
 date: 2019-01-27
-hero: 
+hero: ./images/IMG_8378-e1558127846717.jpg
 excerpt: 
 ---
 

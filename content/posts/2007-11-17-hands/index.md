@@ -1,6 +1,6 @@
 ---
-title: Hands
-author: Derek Au
+title: "Hands"
+author: "Derek Au"
 date: 2007-11-17
 hero: ./images/IMG_0191.jpg
 excerpt: 

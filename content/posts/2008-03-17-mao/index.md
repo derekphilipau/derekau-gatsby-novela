@@ -1,6 +1,6 @@
 ---
-title: Firing Mao
-author: Derek Au
+title: "Firing Mao"
+author: "Derek Au"
 date: 2008-03-17
 hero: ./images/IMG_17821.jpg
 excerpt: 

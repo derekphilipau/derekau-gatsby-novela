@@ -1,6 +1,6 @@
 ---
-title: Triaxial testing
-author: Derek Au
+title: "Triaxial testing"
+author: "Derek Au"
 date: 2015-05-03
 hero: ./images/LineBlendRoundedColor_10_TRUE_landscape2.png
 excerpt: 
@@ -153,13 +153,13 @@ For example, in the partial triaxial below I am searching for a nice teadust gl
 As you can see in the results below, there is indeed a great range of glazes even within 2% increments.  If I had created a smaller triaxial with larger 10% increments I might have entirely missed the teadust crystal effect.
 
 ![](./images/Triaxial_Simple_51.png)
-    
-    All possibilities for a triaxial with 2% increments. Shaded area represents actual test.
-    
+
+All possibilities for a triaxial with 2% increments. Shaded area represents actual test.
+
 ![](./images/YGTD_TRIAX_ALL_web.jpg)
-    
-    Traditional teadust glaze. Partial Triaxial, 2% Increments
-    
+
+Traditional teadust glaze. Partial Triaxial, 2% Increments
+
 
 ### Further reducing size
 

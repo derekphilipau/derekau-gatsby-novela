@@ -1,6 +1,6 @@
 ---
-title: Funeral Band
-author: Derek Au
+title: "Funeral Band"
+author: "Derek Au"
 date: 2007-11-29
 hero: ./images/IMG_0805.jpg
 excerpt: 

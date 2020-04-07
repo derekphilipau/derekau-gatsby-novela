@@ -1,6 +1,6 @@
 ---
-title: Kawase Hasui
-author: Derek Au
+title: "Kawase Hasui"
+author: "Derek Au"
 date: 2016-04-10
 hero: ./images/47043g1.jpg
 excerpt: 

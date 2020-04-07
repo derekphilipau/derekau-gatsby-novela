@@ -1,10 +1,10 @@
 ---
-title: Gaoling Mountain
-author: Derek Au
+title: "Gaoling Mountain"
+author: "Derek Au"
 date: 2014-05-22
-hero: ./images/DSCF1291-1.jpg
+hero: ./images/DSCF1487-1.jpg
 excerpt: 
-coverImage: "DSCF1487-1.jpg"
+
 ---
 
 ![]()

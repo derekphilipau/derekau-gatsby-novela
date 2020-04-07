@@ -1,6 +1,6 @@
 ---
-title: Simple Microscopy for Ceramics
-author: Derek Au
+title: "Simple Microscopy for Ceramics"
+author: "Derek Au"
 date: 2015-07-26
 hero: ./images/IMG_4073.jpg
 excerpt: 

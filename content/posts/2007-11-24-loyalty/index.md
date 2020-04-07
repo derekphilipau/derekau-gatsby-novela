@@ -1,6 +1,6 @@
 ---
-title: Loyalty
-author: Derek Au
+title: "Loyalty"
+author: "Derek Au"
 date: 2007-11-24
 hero: ./images/IMG_0631.jpg
 excerpt: 

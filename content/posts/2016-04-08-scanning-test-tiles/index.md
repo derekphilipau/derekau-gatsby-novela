@@ -1,8 +1,8 @@
 ---
-title: Scanning Test Tiles
-author: Derek Au
+title: "Scanning Test Tiles"
+author: "Derek Au"
 date: 2016-04-08
-hero: 
+hero: ./images/IMG_20160408_0002.jpg
 excerpt: 
 ---
 
@@ -23,21 +23,21 @@ Here’s a scan of some test tiles.  I had to adjust the Exposure in Photoshop 
 The Canon software is really frustrating- by default it wouldn’t let me scan a file greater than a set limit (10208 x 14032 pixels, or larger than 100MB).  I finally found a solution hidden away in the software settings.
 
 ![](./images/dialogerror.png)
-    
-    By default, ScanGear won't let you scan images greater than a seemingly arbitrarily set limit.
-    
+
+By default, ScanGear won't let you scan images greater than a seemingly arbitrarily set limit.
+
 ![](./images/dialog1.png)
-    
-    1\. Open IJ Scan Utility and click Settings
-    
+
+1\. Open IJ Scan Utility and click Settings
+
 ![](./images/dialog2.png)
-    
-    2\. Select ScanGear and check Enable large image scans
-    
+
+2\. Select ScanGear and check Enable large image scans
+
 ![](./images/dialog3.png)
-    
-    3\. ScanGear will now scan files over 100MB. However, you must manually enter dpi greater than 1200, such as 2400, 4800, 9600.
-    
+
+3\. ScanGear will now scan files over 100MB. However, you must manually enter dpi greater than 1200, such as 2400, 4800, 9600.
+
 
 ### Comparison with DSLR
 
@@ -48,29 +48,29 @@ It also takes less time for me to take photos than scan at 2400dpi.
 Below are comparisons of the scan and the photos.  In particular, the dark glazes came out very poorly on the scanner.
 
 ![](./images/PF65Wh18DCH7S10RIO6.5c12.jpg)
-    
-    Tianmu glaze tile. Canon 9000f Mark II 2400dpi, adjust exposure +1.
-    
+
+Tianmu glaze tile. Canon 9000f Mark II 2400dpi, adjust exposure +1.
+
 ![](./images/IMG_0716.jpg)
-    
-    Tianmu glaze tile. Natural light, 18MP EOS Rebel T2i photo
-    
+
+Tianmu glaze tile. Natural light, 18MP EOS Rebel T2i photo
+
 ![](./images/PF4WA3DCH3c11.jpg)
-    
-    Ash glaze tile. Canon 9000f Mark II 2400dpi, adjust exposure +1.
-    
+
+Ash glaze tile. Canon 9000f Mark II 2400dpi, adjust exposure +1.
+
 ![](./images/IMG_0704-1.jpg)
-    
-    Ash glaze tile. Natural light, 18MP EOS Rebel T2i photo
-    
+
+Ash glaze tile. Natural light, 18MP EOS Rebel T2i photo
+
 ![](./images/PF4WA3DCH3c11_edit.jpg)
-    
-    Detail of Canon 9000F Mark II scan
-    
+
+Detail of Canon 9000F Mark II scan
+
 ![](./images/IMG_0704-2_edit.jpg)
-    
-    Detail of 18MP EOS Rebel T2i photo
-    
+
+Detail of 18MP EOS Rebel T2i photo
+
 
 ### Conclusion
 

@@ -1,6 +1,6 @@
 ---
-title: Paperclay Art and Practice
-author: Derek Au
+title: "Paperclay Art and Practice"
+author: "Derek Au"
 date: 2013-01-01
 hero: ./images/51d2QmOeJeL._SX381_BO1204203200_.jpg
 excerpt: 

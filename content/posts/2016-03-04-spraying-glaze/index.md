@@ -1,8 +1,8 @@
 ---
-title: Spraying Glaze
-author: Derek Au
+title: "Spraying Glaze"
+author: "Derek Au"
 date: 2016-03-04
-hero: 
+hero: ./images/IMG_4842.jpg
 excerpt: 
 ---
 
@@ -15,37 +15,37 @@ I hope to slowly add to this article in the future.  For now I will just lay ou
 My spray booth is made locally in Jingdezhen.  It’s a simple stainless steel frame with glass.  A large fan is attached to the back, sucking out particles.  Water is pumped from a bucket through a hose that leads to the top of the booth interior.  The water is channelled along the top of the glass and then exits through small holes, forcing the water to run down the glass, washing away glaze.  The water finally exits through a hole in the bottom of the spray booth, pouring back into the water bucket.
 
 ![](./images/IMG_2076-e1457062416725.jpg)
-    
-    A typical Jingdezhen spray booth
-    
+
+A typical Jingdezhen spray booth
+
 ![](./images/IMG_4850.jpg)
-    
-    A gap between glass and stainless steel reservoir evenly distributes water down the glass.
-    
+
+A gap between glass and stainless steel reservoir evenly distributes water down the glass.
+
 ![](./images/IMG_2097.jpg)
-    
-    The fan at the back of the spray booth blows out particles.
-    
+
+The fan at the back of the spray booth blows out particles.
+
 ![](./images/IMG_4851.jpg)
-    
-    Detail of the fan label
-    
+
+Detail of the fan label
+
 ![](./images/IMG_2087.jpg)
-    
-    The pump sucks water from a bucket and up through the spray booth.
-    
+
+The pump sucks water from a bucket and up through the spray booth.
+
 ![](./images/IMG_2088_detail-1.jpg)
-    
-    Detail of the water pump
-    
+
+Detail of the water pump
+
 ![](./images/IMG_2092edit.jpg)
-    
-    Inside the booth I place a large plastic basin for collecting glaze. Inside the basin is a turntable.
-    
+
+Inside the booth I place a large plastic basin for collecting glaze. Inside the basin is a turntable.
+
 ![](./images/IMG_2135.jpg)
-    
-    On top of the turntable I place a plaster disk. The added weight results in more even turning, while the plaster absorbs glaze. A notch in the plaster helps with counting revolutions. After spraying, glaze can be scraped off and collected.
-    
+
+On top of the turntable I place a plaster disk. The added weight results in more even turning, while the plaster absorbs glaze. A notch in the plaster helps with counting revolutions. After spraying, glaze can be scraped off and collected.
+
 
 ### The Air Compressor
 
@@ -62,17 +62,17 @@ Note that this type of spraying results in more water being absorbed into the wa
 _If while spraying you notice the glaze stays wet and shiny on the surface it means you are either spraying too close or have already reached saturation.  This is bad.  There’s a good chance that the entire glaze layer will separate from the ware._
 
 ![](./images/IMG_2089.jpg)
-    
-    My air compressor is actually just a cheap fish tank pump. It's much quieter than normal air-tank compressors.
-    
+
+My air compressor is actually just a cheap fish tank pump. It's much quieter than normal air-tank compressors.
+
 ![](./images/IMG_2090.jpg)
-    
-    Detail of the 520W fish tank magnetic air pump, rated at 0.04MPa (approx 6PSI)
-    
+
+Detail of the 520W fish tank magnetic air pump, rated at 0.04MPa (approx 6PSI)
+
 ![](./images/IMG_4842.jpg)
-    
-    The spray canister is attached via rubber hose. A shut-off valve to controls air flow.
-    
+
+The spray canister is attached via rubber hose. A shut-off valve to controls air flow.
+
 
 ### Mouth sprayers
 
@@ -81,13 +81,13 @@ The glaze sprayers widely used in Jingdezhen were originally meant to be sprayed
 Making these sprayers is a specialized craft.  The sprayers come in dozens of different configurations.  The sizes of the container, nozzle, and mouth stem as well as the distances between these parts, all determine the characteristics of the spray pattern.  In general, larger containers are used for larger work (e.g. sculpture), while the smallest containers are used for spraying underglazes and details.
 
 ![](./images/IMG_4822.jpg)
-    
-    The parts that make up a glaze canister.
-    
+
+The parts that make up a glaze canister.
+
 ![](./images/IMG_2128.jpg)
-    
-    Some of my locally made glaze spraying canisters.
-    
+
+Some of my locally made glaze spraying canisters.
+
 
 ![](./images/splatter.jpg)
 
@@ -117,37 +117,37 @@ To spray:
 - Keep the glaze canister in constant, steady motion- up & down, side to side, or circular.  You may need to vary the motion to get consistent application.
 
 ![](./images/IMG_2100.jpg)
-    
-    Using a toilet brush for mixing up the glaze each time I fill the canister
-    
+
+Using a toilet brush for mixing up the glaze each time I fill the canister
+
 ![](./images/IMG_2144-1.jpg)
-    
-    It's difficult to see in this photo, but the center of this dish was trimmed thin, and the sprayed glaze has saturated the ware. The surface of the glaze is no longer powdery. Stop spraying.
-    
+
+It's difficult to see in this photo, but the center of this dish was trimmed thin, and the sprayed glaze has saturated the ware. The surface of the glaze is no longer powdery. Stop spraying.
+
 ![](./images/IMG_2139.jpg)
-    
-    I've found no consistent way to check glaze depth other than scraping with a knife.
-    
+
+I've found no consistent way to check glaze depth other than scraping with a knife.
+
 ![](./images/IMG_2140.jpg)
-    
-    After spraying the bottom, glaze can be scraped off with a box cutter blade or metal rib. Take care not to scratch the ware.
-    
+
+After spraying the bottom, glaze can be scraped off with a box cutter blade or metal rib. Take care not to scratch the ware.
+
 ![](./images/IMG_2118.jpg)
-    
-    After spraying the bottom, a board is placed on the foot, then flipped over and placed on a ware board.
-    
+
+After spraying the bottom, a board is placed on the foot, then flipped over and placed on a ware board.
+
 ![](./images/IMG_2152crop.jpg)
-    
-    A large circular piece of foam is used to flip over glazed ware, protecting the insides.
-    
+
+A large circular piece of foam is used to flip over glazed ware, protecting the insides.
+
 ![](./images/IMG_2148.jpg)
-    
-    Ware is placed on a damp, firm foam pad and rotated using even pressure, resulting in a clean glaze line.
-    
+
+Ware is placed on a damp, firm foam pad and rotated using even pressure, resulting in a clean glaze line.
+
 ![](./images/IMG_2151crop.jpg)
-    
-    Foam after cleaning a bottom. Foam firmness and hand pressure determines glaze line height.
-    
+
+Foam after cleaning a bottom. Foam firmness and hand pressure determines glaze line height.
+
 ![](./images/IMG_2158-1-e1457153775874.jpg)
-    
-    Another method for creating a clean glaze line- using a notched rib.
+
+Another method for creating a clean glaze line- using a notched rib.

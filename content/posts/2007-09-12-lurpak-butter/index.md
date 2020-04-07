@@ -1,6 +1,6 @@
 ---
-title: Lurpak Butter
-author: Derek Au
+title: "Lurpak Butter"
+author: "Derek Au"
 date: 2007-09-12
 hero: ./images/IMG_9582.jpg
 excerpt: 

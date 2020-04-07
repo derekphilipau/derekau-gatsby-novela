@@ -1,8 +1,8 @@
 ---
-title: Expatriate Ceramics
-author: Derek Au
+title: "Expatriate Ceramics"
+author: "Derek Au"
 date: 2018-03-07
-hero: 
+hero: ./images/exhibition.jpg
 excerpt: 
 ---
 

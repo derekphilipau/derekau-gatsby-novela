@@ -1,12 +1,10 @@
 ---
-title: Clear Cone 6 Oxidation Glazes
-author: Derek Au
+title: "Clear Cone 6 Oxidation Glazes"
+author: "Derek Au"
 date: 2018-07-07
-hero: 
+hero: ./images/all.jpg
 excerpt: 
 ---
-
-![](./images/all.jpg)
 
 [Link to full size cone 6 clear glaze comparison image here.](http://www.derekau.net/wp-content/uploads/2014/12/all.jpg)
 
@@ -23,3 +21,5 @@ These clear oxidation cone 6 glaze recipes all came from Glazy:
 [Clear, cone 6 glaze images by Derek](https://glazy.org/u/derekau/images?base_type=460&type=470&cone=30)
 
 My personal favorite is Sue McLeod's clear, followed by the WCAC Celadon Clear.  However, the Celadon Clear is high in boron and may have issues with durability?  The Digitalfire "G" glazes are also quite nice.  Campana clear is very clear on porcelain but peforms badly on the stoneware.
+
+![](./images/all.jpg)

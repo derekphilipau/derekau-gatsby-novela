@@ -1,6 +1,6 @@
 ---
-title: Blue Celadon Glazes
-author: Derek Au
+title: "Blue Celadon Glazes"
+author: "Derek Au"
 date: 2015-01-19
 hero: ./images/IMG_9965-Blue-Celadon-Martell-2.jpg
 excerpt: 
@@ -17,66 +17,66 @@ These are tests of some of the Blue Celadon Recipes found in High Fire Glazes. �
 Custer Feldspar:  61.7, Silica: 21.2, Barium Carbonate: 4.5, Wollastonite: 12.7, Black Iron Oxide: 1
 
 ![](./images/IMG_9965-Blue-Celadon-Martell-2.jpg)
-    
-    Craig Martell Blue Celadon
-    
+
+Craig Martell Blue Celadon
+
 ![](./images/IMG_9966-Blue-Celadon-Martell.jpg)
-    
-    Craig Martell Blue Celadon
-    
+
+Craig Martell Blue Celadon
+
 
 ### Pete Pinnell Blue Celadon
 
 Custer Feldspar:  24.5, Silica: 34.3, Whiting: 19.6, Kaolin (Grolleg): 19.6, Barium Carbonate: 1.9, Tin Oxide: 1, Yellow Iron Oxide: 0.5
 
 ![](./images/IMG_9968-Blue-Celadon-Pinnell-.3YIO.jpg)
-    
-    Pete Pinnell Blue Celadon
-    
+
+Pete Pinnell Blue Celadon
+
 ![](./images/IMG_9967-Blue-Celadon-Pinnell-.3YIO.jpg)
-    
-    Pete Pinnell Blue Celadon
-    
+
+Pete Pinnell Blue Celadon
+
 
 ### Sam's Satin
 
 Custer Feldspar:  40, Silica: 34.5, Whiting: 15.5, Barium Carbonate: 4, Dolomite: 6, Yellow Iron Oxide: 0.5
 
 ![](./images/IMG_9970-Blue-Celadon-Sams-Satin.jpg)
-    
-    Sams Satin
-    
+
+Sams Satin
+
 ![](./images/IMG_9969-Blue-Celadon-Sams-Satin.jpg)
-    
-    Sams Satin
-    
+
+Sams Satin
+
 
 ### Cliff Lee Blue Celadon
 
 Custer Feldspar:  50.5, Silica: 24.9, Whiting: 17.2, Kaolin (Grolleg): 3.7, Dolomite: 2.6, Zinc Oxide: 1.1, Red Iron Oxide: 0.75
 
 ![](./images/IMG_9972-Blue-Celadon-Cliff-Lee.jpg)
-    
-    Cliff Lee Blue Celadon
-    
+
+Cliff Lee Blue Celadon
+
 ![](./images/IMG_9971-Blue-Celadon-Cliff-Lee.jpg)
-    
-    Cliff Lee Blue Celadon
-    
+
+Cliff Lee Blue Celadon
+
 
 ### Choy Blue
 
 Custer Feldspar:  50, Silica: 28, Whiting: 6, Kaolin (Grolleg): 4, Barium Carbonate: 12, Red Iron Oxide: 2
 
 ![](./images/IMG_9973-Blue-Celadon-Choy-Blue.jpg)
-    
+
 
 ### Ishii Blue Celadon
 
 Custer Feldspar: 49, Silica: 31, Whiting: 20, Black Iron Oxide: 1
 
 ![](./images/IMG_9974-Blue-Celadon-Ishii.jpg)
-    
+
 
 ### Celadon Blues
 
@@ -85,37 +85,37 @@ Robert Tichane’s _[Celadon Blues](http://books.google.com/books/about/Celadon
 Below on the left is Tichane’s 532.1 formula with 1% yellow iron oxide (YIO).  On the right is the same formula but with Wollastonite instead of Whiting (of course this adds some silica to the mix).  These tests were fired in a public kiln, temperature is uncertain but at least Orton cone 12, I believe Tichane’s tests were fired to cone 10.
 
 ![](./images/IMG_9393_Tichane-532.1-YIO-Whiting.jpg)
-    
-    Tichane 532.1 YIO Whiting
-    
+
+Tichane 532.1 YIO Whiting
+
 ![](./images/IMG_9444_Tichane-532.1-Wollastonite.jpg)
-    
-    Tichane 532.1 Wollastonite
-    
+
+Tichane 532.1 Wollastonite
+
 
 It is quite simple to create a blue celadon suited to your particular firing style using Tichane’s methods and triaxial blends.  From a triaxial blend of potash feldspar, silica, and whiting I arrived at a recipe suitable for Orton cone 11-12 reduction firings:  56 feldspar, 30 silica, 14 whiting plus .6-.8 yellow iron oxide.  Some variants of this glaze are shown below.  All tests fired to approximately Orton cone 12 in heavy reduction.
 
 ![](./images/IMG_0072_Tichane-56f-30s-14wh-.6yio.jpg)
-    
-    .6 YIO
-    
+
+.6 YIO
+
 ![](./images/IMG_0073_Tichane-56f-30s-14wh-.6yio-2ba.jpg)
-    
-    .6 YIO +2 BaCO3
-    
+
+.6 YIO +2 BaCO3
+
 ![](./images/IMG_9330_Tichane-56f-30s-14wh-.6yio-2ba-1tin.jpg)
-    
-    .6 YIO +2 BaCO3 +1 SnO2
-    
+
+.6 YIO +2 BaCO3 +1 SnO2
+
 
 ![](./images/IMG_9331_Tichane-56f-30s-14wh-.8yio-2ba-1tin.jpg)
-    
-    .8 YIO +2 BaCO3 +1 SnO2
-    
+
+.8 YIO +2 BaCO3 +1 SnO2
+
 ![](./images/IMG_9329_Tichane-56f-30s-14wh-.8yio-2ba-1tin-2.5Do.jpg)
-    
-    .8 YIO +2 BaCO3 +1 SnO2 +2.5 Dolomite
-    
+
+.8 YIO +2 BaCO3 +1 SnO2 +2.5 Dolomite
+
 
 ### Formulating Your Own Celadon
 

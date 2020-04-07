@@ -1,6 +1,6 @@
 ---
-title: Sanbao Porcelain Stone and Saggar Kiln
-author: Derek Au
+title: "Sanbao Porcelain Stone and Saggar Kiln"
+author: "Derek Au"
 date: 2015-03-23
 hero: ./images/IMG_4410.jpg
 excerpt: 

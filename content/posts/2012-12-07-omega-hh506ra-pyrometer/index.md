@@ -1,6 +1,6 @@
 ---
-title: Omega HH506RA Pyrometer
-author: Derek Au
+title: "Omega HH506RA Pyrometer"
+author: "Derek Au"
 date: 2012-12-07
 hero: 
 excerpt: 

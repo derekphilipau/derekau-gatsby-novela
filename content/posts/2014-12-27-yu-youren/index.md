@@ -1,6 +1,6 @@
 ---
-title: 于右任 Yu Youren
-author: Derek Au
+title: "于右任 Yu Youren"
+author: "Derek Au"
 date: 2014-12-27
 hero: ./images/IMG_0009-Edit.jpg
 excerpt: 

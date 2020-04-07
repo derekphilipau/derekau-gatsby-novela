@@ -1,6 +1,6 @@
 ---
-title: Old trusty (and rusty)
-author: Derek Au
+title: "Old trusty (and rusty)"
+author: "Derek Au"
 date: 2016-09-05
 hero: ./images/IMG_3828.jpg
 excerpt: 

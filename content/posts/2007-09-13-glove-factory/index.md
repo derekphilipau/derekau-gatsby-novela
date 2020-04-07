@@ -1,6 +1,6 @@
 ---
-title: Glove Factory
-author: Derek Au
+title: "Glove Factory"
+author: "Derek Au"
 date: 2007-09-13
 hero: ./images/IMG_9593.jpg
 excerpt: 

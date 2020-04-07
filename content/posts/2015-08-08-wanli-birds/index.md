@@ -1,6 +1,6 @@
 ---
-title: Wanli Birds
-author: Derek Au
+title: "Wanli Birds"
+author: "Derek Au"
 date: 2015-08-08
 hero: ./images/WanliBirds.jpg
 excerpt: 

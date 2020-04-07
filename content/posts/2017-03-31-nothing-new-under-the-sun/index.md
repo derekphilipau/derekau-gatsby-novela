@@ -1,6 +1,6 @@
 ---
-title: Nothing new under the sun..
-author: Derek Au
+title: "Nothing new under the sun.."
+author: "Derek Au"
 date: 2017-03-31
 hero: ./images/Screen-Shot-2017-03-31-at-9.10.15-PM-copy.jpg
 excerpt: 

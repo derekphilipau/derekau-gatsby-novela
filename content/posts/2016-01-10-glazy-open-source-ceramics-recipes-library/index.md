@@ -1,6 +1,6 @@
 ---
-title: Glazy open source ceramics recipe library
-author: Derek Au
+title: "Glazy open source ceramics recipe library"
+author: "Derek Au"
 date: 2016-01-10
 hero: ./images/glazysplash.jpg
 excerpt: 

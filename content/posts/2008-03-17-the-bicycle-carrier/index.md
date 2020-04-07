@@ -1,6 +1,6 @@
 ---
-title: The bicycle carrier
-author: Derek Au
+title: "The bicycle carrier"
+author: "Derek Au"
 date: 2008-03-17
 hero: ./images/IMG_17891.jpg
 excerpt: 

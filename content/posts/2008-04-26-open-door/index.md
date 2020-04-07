@@ -1,6 +1,6 @@
 ---
-title: Open door
-author: Derek Au
+title: "Open door"
+author: "Derek Au"
 date: 2008-04-26
 hero: ./images/IMG_1134.jpg
 excerpt: 

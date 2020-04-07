@@ -1,6 +1,6 @@
 ---
-title: Tea Dust Glaze
-author: Derek Au
+title: "Tea Dust Glaze"
+author: "Derek Au"
 date: 2015-04-30
 hero: ./images/IMG_9476_Currie-Teadust.jpg
 excerpt: 
@@ -19,85 +19,85 @@ Some tea dust glazes from _[The Complete Guide to High Fire Glazes](https://bo
 [http://glazy.org/recipes/3311](http://glazy.org/recipes/3311)
 
 ![](./images/IMG_9476_Currie-Teadust.jpg)
-    
-    Stoneware, Reduction Cone 10
-    
+
+Stoneware, Reduction Cone 10
+
 ![](./images/IMG_9475_Currie-Teadust.jpg)
-    
-    Porcelain, Reduction Cone 10
-    
+
+Porcelain, Reduction Cone 10
+
 ![](./images/DSCF2040_Currie-10-Teadust.jpg)
-    
-    Porcelain, Reduction Cone 11
-    
+
+Porcelain, Reduction Cone 11
+
 
 ### Currie 11 Tea Dust
 
 [http://glazy.org/recipes/3310](http://glazy.org/recipes/3310)
 
 ![](./images/IMG_9478_Currie-11-Teadust.jpg)
-    
-    Stoneware, Reduction Cone 10
-    
+
+Stoneware, Reduction Cone 10
+
 ![](./images/IMG_9477_Currie-11-Teadust.jpg)
-    
-    Porcelain, Reduction Cone 10
-    
+
+Porcelain, Reduction Cone 10
+
 ![](./images/DSCF2041_Currie-11-Teadust.jpg)
-    
-    Porcelain, Reduction Cone 11
-    
+
+Porcelain, Reduction Cone 11
+
 
 ### Coleman Tea Dust
 
 [http://glazy.org/recipes/3312](http://glazy.org/recipes/3312)
 
 ![](./images/IMG_9474_Coleman-Teadust.jpg)
-    
-    Stoneware, Reduction Cone 10
-    
+
+Stoneware, Reduction Cone 10
+
 ![](./images/IMG_9473_Coleman-Teadust.jpg)
-    
-    Porcelain, Reduction Cone 10
-    
+
+Porcelain, Reduction Cone 10
+
 ![](./images/DSCF2042_Coleman-Teadust.jpg)
-    
-    Porcelain, Reduction Cone 11
-    
+
+Porcelain, Reduction Cone 11
+
 
 ### Tea Dust Black
 
 [http://glazy.org/recipes/3308](http://glazy.org/recipes/3308)
 
 ![](./images/IMG_9472_Teadust-Black.jpg)
-    
-    Stoneware, Reduction Cone 10
-    
+
+Stoneware, Reduction Cone 10
+
 ![](./images/IMG_9471_Teadust-Black.jpg)
-    
-    Porcelain, Reduction Cone 10
-    
+
+Porcelain, Reduction Cone 10
+
 ![](./images/DSCF2043_Teadust-Black.jpg)
-    
-    Porcelain, Reduction Cone 11
-    
+
+Porcelain, Reduction Cone 11
+
 
 ### Tessha Tea Dust
 
 [http://glazy.org/recipes/3309](http://glazy.org/recipes/3309)
 
 ![](./images/IMG_9470_Tessha-Teadust.jpg)
-    
-    Stoneware, Reduction Cone 10
-    
+
+Stoneware, Reduction Cone 10
+
 ![](./images/IMG_9469_Tessha-Teadust.jpg)
-    
-    Porcelain, Reduction Cone 10
-    
+
+Porcelain, Reduction Cone 10
+
 ![](./images/DSCF2044_Tessha-Teadust.jpg)
-    
-    Porcelain, Reduction Cone 11
-    
+
+Porcelain, Reduction Cone 11
+
 
 ### Chinese Traditional Tea Dust Glaze
 
@@ -206,13 +206,13 @@ The above triaxial was slow-cooled.  Below is a comparison of the same glaze wi
 John Sankey has an excellent article about iron glazes and cooling: [http://johnsankey.ca/glazeiron.html](http://johnsankey.ca/glazeiron.html)
 
 ![](./images/Tea_ball12_talc8_rio9.5_pf28_s40_wh12_IMG_0439.jpg)
-    
-    Teadust glaze with slow cooling. After reaching cone 10, immediately close up kiln entirely.
-    
+
+Teadust glaze with slow cooling. After reaching cone 10, immediately close up kiln entirely.
+
 ![](./images/IMG_0124_TD-PF28-S40-Wh12_WEB1800.jpg)
-    
-    Teadust glaze in fast cool to 1000°C. After reaching 1000°C, completely close up kiln.
-    
+
+Teadust glaze in fast cool to 1000°C. After reaching 1000°C, completely close up kiln.
+
 
 I added the recipe for this glaze on Glazy at [http://glazy.org/recipes/3557](http://glazy.org/recipes/3557)
 

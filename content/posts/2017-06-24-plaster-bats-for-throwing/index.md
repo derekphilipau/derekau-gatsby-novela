@@ -1,6 +1,6 @@
 ---
-title: Plaster Bats for throwing
-author: Derek Au
+title: "Plaster Bats for throwing"
+author: "Derek Au"
 date: 2017-06-24
 hero: ./images/CamoisPlasterBat.jpg
 excerpt: 

@@ -1,6 +1,6 @@
 ---
-title: The Glaze Sprayer Maker
-author: Derek Au
+title: "The Glaze Sprayer Maker"
+author: "Derek Au"
 date: 2012-08-13
 hero: ./images/IMG_4761-1.jpg
 excerpt: 

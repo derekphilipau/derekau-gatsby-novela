@@ -1,6 +1,6 @@
 ---
-title: Roof Tiles
-author: Derek Au
+title: "Roof Tiles"
+author: "Derek Au"
 date: 2007-11-25
 hero: ./images/IMG_9498.jpg
 excerpt: 

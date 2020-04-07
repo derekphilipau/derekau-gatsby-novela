@@ -1,8 +1,8 @@
 ---
-title: Adjusting Clay Body to reduce Crazing
-author: Derek Au
+title: "Adjusting Clay Body to reduce Crazing"
+author: "Derek Au"
 date: 2019-02-02
-hero: 
+hero: ./images/all.jpg
 excerpt: 
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: On-glaze enamels
-author: Derek Au
+title: "On-glaze enamels"
+author: "Derek Au"
 date: 2007-11-24
 hero: ./images/IMG_0604.jpg
 excerpt: 

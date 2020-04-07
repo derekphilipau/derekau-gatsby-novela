@@ -1,6 +1,6 @@
 ---
-title: Colors of Celadon\:  Iron and Titania
-author: Derek Au
+title: "Colors of Celadon:  Iron and Titania"
+author: "Derek Au"
 date: 2016-08-16
 hero: ./images/PinnellClear_RIO_TiO.jpg
 excerpt: 
@@ -9,13 +9,13 @@ excerpt:
 _Following images from Bonham’s 2014 auction, [The Feng Wen Tang Collection of Early Chinese Ceramics](http://www.bonhams.com/auctions/22320/)_
 
 ![](./images/qingbai1.jpg)
-    
-    A Qingbai incised conical bowl
-    
+
+A Qingbai incised conical bowl
+
 ![](./images/yazhou1.jpg)
-    
-    A Fine Yaozhou Celadon 'Peony' Carved Bowl
-    
+
+A Fine Yaozhou Celadon 'Peony' Carved Bowl
+
 
 _The best resource I’ve found about color in Chinese glazes is Nigel Wood’s [Chinese Glazes](https://books.google.com/books/about/Chinese_Glazes.html?id=NGw8DUuNywYC).  Chapter 8, Iron in Chinese Glazes, covers iron in detail, while celadons are covered throughout the book._
 

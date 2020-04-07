@@ -1,6 +1,6 @@
 ---
-title: Black Glazes
-author: Derek Au
+title: "Black Glazes"
+author: "Derek Au"
 date: 2015-01-12
 hero: ./images/DSCF2586_Vals-Satin-Black-Orig.jpg
 excerpt: 
@@ -27,13 +27,13 @@ From Val Cushing.
 - Add: Chrome Oxide: 1
 
 ![](./images/DSCF2586_Vals-Satin-Black-Orig.jpg)
-    
-    Porcelain, Orton Cone 10 Reduction
-    
+
+Porcelain, Orton Cone 10 Reduction
+
 ![](./images/DSCF2587_Vals-Satin-Black-Orig.jpg)
-    
-    Stoneware, Orton Cone 10 Reduction
-    
+
+Stoneware, Orton Cone 10 Reduction
+
 
 ### Val's Satin Black Variation
 
@@ -50,13 +50,13 @@ From Ceramic Arts Daily:
 - Add: Cobalt Carbonate: 3
 
 ![](./images/DSCF2588_Vals-Satin-Black-var.jpg)
-    
-    Porcelain, Orton Cone 10 Reduction
-    
+
+Porcelain, Orton Cone 10 Reduction
+
 ![](./images/DSCF2589_Vals-Satin-Black-var.jpg)
-    
-    Stoneware, Orton Cone 10 Reduction
-    
+
+Stoneware, Orton Cone 10 Reduction
+
 
 ### Fat Black
 
@@ -72,9 +72,9 @@ From The Complete Guide to High-Fire Glazes:
 - Add: Bentonite: 2
 
 ![](./images/DSCF2584_Fat-Black-C10.jpg)
-    
-    Porcelain, Orton Cone 10 Reduction
-    
+
+Porcelain, Orton Cone 10 Reduction
+
 ![](./images/DSCF2585_Fat-Black-C10.jpg)
-    
-    Stoneware, Orton Cone 10 Reduction
+
+Stoneware, Orton Cone 10 Reduction

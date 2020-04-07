@@ -1,6 +1,6 @@
 ---
-title: Porcelain Stone Glazes
-author: Derek Au
+title: "Porcelain Stone Glazes"
+author: "Derek Au"
 date: 2015-01-12
 hero: ./images/IMG_0023-CS-2011.jpg
 excerpt: 
@@ -13,26 +13,26 @@ There are a number of types of porcelain stone mined throughout Jingdezhen and t
 Below are three types of porcelain stone fired to 1310 Celsius in a reduction atmosphere.  From left to right:  San Bao porcelain stone, Yaoli glaze stone #1, Yaoli glaze stone #2. 
 
 ![](./images/IMG_0023-CS-2011.jpg)
-    
-    San Bao Porcelain Stone
-    
+
+San Bao Porcelain Stone
+
 ![](./images/IMG_0022-YG-2012.jpg)
-    
-    Yaoli Glaze Stone #1
-    
+
+Yaoli Glaze Stone #1
+
 ![](./images/IMG_0021-YG-2011.jpg)
-    
-    Yaoli Glaze Stone #2
-    
+
+Yaoli Glaze Stone #2
+
 
 Most porcelain stone is made from a combination of rocks.  The stones below are used to make Yaoli glaze stone.  On the left is the more common, dirtier stone, in the middle is the higher quality stone, while the right is the mixed, washed and purified stone before adding plaster.  All examples were fired to 1310 Celsius in reduction atmosphere.
 
 ![](./images/IMG_0024-YG-Poor-Stone.jpg)
-    
+
 ![](./images/IMG_0025-YG-Good-stone.jpg)
-    
+
 ![](./images/IMG_0026-YG-cleaned.jpg)
-    
+
 
 ### San Bao Porcelain Stone (三宝瓷石)
 
@@ -49,44 +49,44 @@ However, this analysis can only be used as a basic guideline.  There are notic
 Traditional glaze recipes usually call for whiting, but unless fired very carefully, porcelain stone has a tendency to carbon-trap when whiting is the flux.  Replacing whiting with wollastonite eliminates this problem.
 
 ![](./images/IMG_0005-CS-90-WH-10.jpg)
-    
-    90% Porcelain Stone, 10% Whiting
-    
+
+90% Porcelain Stone, 10% Whiting
+
 ![](./images/IMG_0004-CS-80-WH-20.jpg)
-    
-    80% Porcelain Stone, 20% Whiting
-    
+
+80% Porcelain Stone, 20% Whiting
+
 ![](./images/IMG_0006-CS-75-WO-25.jpg)
-    
-    75% Porcelain Stone, 25% Wollastonite
-    
+
+75% Porcelain Stone, 25% Wollastonite
+
 
 Below are a few glazes containing San Bao porcelain stone, silica, wollastonite and kaolin.  It is quite easy to make a very nice celadon with porcelain stone.
 
 ![](./images/IMG_9982-CS-30-10-10.jpg)
-    
-    60% Porcelain Stone, 20% Silica, 20% Wollastonite
-    
+
+60% Porcelain Stone, 20% Silica, 20% Wollastonite
+
 ![](./images/IMG_9991-CS-35-7.5-7.5.jpg)
-    
-    70% Porcelain Stone, 15% Silica, 15% Wollastonite
-    
+
+70% Porcelain Stone, 15% Silica, 15% Wollastonite
+
 ![](./images/IMG_9997-CS-35-2.5-7.5-5.jpg)
-    
-    70% Porcelain Stone, 5% Silica, 15% Wollastonite, 10% Kaolin
-    
+
+70% Porcelain Stone, 5% Silica, 15% Wollastonite, 10% Kaolin
+
 ![](./images/IMG_9998-CS-35-5-7.5-2.5.jpg)
-    
-    70% Porcelain Stone, 10% Silica, 15% Wollastonite, 5% Kaolin
-    
+
+70% Porcelain Stone, 10% Silica, 15% Wollastonite, 5% Kaolin
+
 ![](./images/IMG_0014-CS-25-7.5-10-7.5.jpg)
-    
-    50% Porcelain Stone, 15% Silica, 20% Wollastonite, 15% Kaolin
-    
+
+50% Porcelain Stone, 15% Silica, 20% Wollastonite, 15% Kaolin
+
 ![](./images/IMG_0013-CS-25-10-10-5.jpg)
-    
-    50% Porcelain Stone, 20% Silica, 20% Wollastonite, 10% Kaolin
-    
+
+50% Porcelain Stone, 20% Silica, 20% Wollastonite, 10% Kaolin
+
 
 ### Yaoli Glaze Stone (瑶里釉果)
 
@@ -103,25 +103,25 @@ At the left is a simple melt test of 75% glaze stone with 25% Wollastonite and 8
 Below are a few simple celadons made with glaze stone, silica, wollastonite, and kaolin.
 
 ![](./images/IMG_0012-YG75-Wo25.jpg)
-    
-    75% Glaze Stone, 25% Wollastonite
-    
+
+75% Glaze Stone, 25% Wollastonite
+
 ![](./images/IMG_0053-YG80-Wo20.jpg)
-    
-    80% Glaze Stone, 20% Wollastonite
-    
+
+80% Glaze Stone, 20% Wollastonite
+
 ![](./images/IMG_0008-YG70-S10-Wo20.jpg)
-    
-    70% Glaze Stone, 10% Silica, 20% Wollastonite
-    
+
+70% Glaze Stone, 10% Silica, 20% Wollastonite
+
 ![](./images/IMG_0009-YG60-S10-Wo25-K5.jpg)
-    
-    60% Glaze Stone, 10% Silica, 25% Wollastonite, 5% Kaolin
-    
+
+60% Glaze Stone, 10% Silica, 25% Wollastonite, 5% Kaolin
+
 ![](./images/IMG_0010-YG60-S10-Wo20-K10.jpg)
-    
-    60% Glaze Stone, 10% Silica, 20% Wollastonite, 10% Kaolin
-    
+
+60% Glaze Stone, 10% Silica, 20% Wollastonite, 10% Kaolin
+
 
 ### Porcelain Bodies
 

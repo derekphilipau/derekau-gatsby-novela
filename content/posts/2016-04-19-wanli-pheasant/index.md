@@ -1,6 +1,6 @@
 ---
-title: Wanli Pheasant
-author: Derek Au
+title: "Wanli Pheasant"
+author: "Derek Au"
 date: 2016-04-19
 hero: ./images/13.05044adeccbf4241_unstacked.jpg
 excerpt: 

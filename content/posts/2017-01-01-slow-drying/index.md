@@ -1,6 +1,6 @@
 ---
-title: Slow drying
-author: Derek Au
+title: "Slow drying"
+author: "Derek Au"
 date: 2017-01-01
 hero: ./images/SON01989.jpg
 excerpt: 

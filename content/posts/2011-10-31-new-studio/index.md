@@ -1,6 +1,6 @@
 ---
-title: New Studio
-author: Derek Au
+title: "New Studio"
+author: "Derek Au"
 date: 2011-10-31
 hero: ./images/IMG_3388.jpg
 excerpt: 

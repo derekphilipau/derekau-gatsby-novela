@@ -1,6 +1,6 @@
 ---
-title: Stockholm
-author: Derek Au
+title: "Stockholm"
+author: "Derek Au"
 date: 2014-01-15
 hero: ./images/IMG_6050.jpg
 excerpt: 

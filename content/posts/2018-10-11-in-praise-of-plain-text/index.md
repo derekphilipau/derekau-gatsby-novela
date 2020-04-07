@@ -1,8 +1,8 @@
 ---
-title: In Praise of Plain Text
-author: Derek Au
+title: "In Praise of Plain Text"
+author: "Derek Au"
 date: 2018-10-11
-hero: 
+hero: ./images/glazechem.png
 excerpt: 
 ---
 
@@ -207,7 +207,7 @@ Glazy uses a JSON (JavaScript Object Notation) lightweight data-interchange form
                     }
                 }
             },
-........ etc. ......
+    ........ etc. ......
         }
 
     }
@@ -235,46 +235,46 @@ Surface: Glossy
 Transparency: Transluscent
 Description: The classic Leach clear plus iron oxide.
 INGREDIENTS:
-    40    Potash Feldspar (ID: 15892)
-    30    Silica (ID: 15400)
-    20    Whiting (ID: 15457)
-    10    Kaolin (ID: 15288)
-    +1    Red iron oxide (ID: 15387)
+40    Potash Feldspar (ID: 15892)
+30    Silica (ID: 15400)
+20    Whiting (ID: 15457)
+10    Kaolin (ID: 15288)
++1    Red iron oxide (ID: 15387)
 METADATA:
-    ID: 3262
-    Parent ID: 
-    Analysis: False
-    Primitive: False
-    Archived: False
-    Created By: Derek Au
-    Created By User ID: 7
-    Created At: 2015-10-14
-    Updated At: 2015-10-14
+ID: 3262
+Parent ID: 
+Analysis: False
+Primitive: False
+Archived: False
+Created By: Derek Au
+Created By User ID: 7
+Created At: 2015-10-14
+Updated At: 2015-10-14
 PERCENTAGE ANALYSIS:
-    SiO2: 62.15
-    Al2O3: 10.52
-    Na2O: 1.18
-    K2O: 3.76
-    MgO: 0.00
-    CaO: 11.20
-    TiO2: 0.00
-    Fe2O3: 0.96
-    LOI: 10.08
+SiO2: 62.15
+Al2O3: 10.52
+Na2O: 1.18
+K2O: 3.76
+MgO: 0.00
+CaO: 11.20
+TiO2: 0.00
+Fe2O3: 0.96
+LOI: 10.08
 UMF ANALYSIS:
-    R2O/RO:
-        Na2O: 0.07     
-        K2O: 0.15
-        MgO: 0.00
-        CaO: 0.77
-    R2O3:
-        Al2O3: 0.40
-    RO2:
-        SiO2: 4.00
-    OTHER:
-        TiO2: 0.00
-        Fe2O3: 0.02
-    SiO2:Al2O3 Ratio: 10.02
-    R2O:RO Ratio: 0.23:0.77
+R2O/RO:
+    Na2O: 0.07     
+    K2O: 0.15
+    MgO: 0.00
+    CaO: 0.77
+R2O3:
+    Al2O3: 0.40
+RO2:
+    SiO2: 4.00
+OTHER:
+    TiO2: 0.00
+    Fe2O3: 0.02
+SiO2:Al2O3 Ratio: 10.02
+R2O:RO Ratio: 0.23:0.77
 ```
 
 However, there are issues with the above format that plain-text formats like CSV, JSON, XML and YAML already struggled with in the past.  For example, what if the recipe description contains delimiter fields such as "METADATA:"?  I already stated that whitespace shouldn't signify anything, and there's no other way defined to "escape" text data.

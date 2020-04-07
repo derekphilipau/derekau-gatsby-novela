@@ -1,6 +1,6 @@
 ---
-title: Jun
-author: Derek Au
+title: "Jun"
+author: "Derek Au"
 date: 2016-04-14
 hero: ./images/IMG_2599_edit.jpg
 excerpt: 

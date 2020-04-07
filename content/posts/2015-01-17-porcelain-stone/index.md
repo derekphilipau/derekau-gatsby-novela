@@ -1,6 +1,6 @@
 ---
-title: Porcelain Stone
-author: Derek Au
+title: "Porcelain Stone"
+author: "Derek Au"
 date: 2015-01-17
 hero: ./images/IMG_0163_edit.jpg
 excerpt: 

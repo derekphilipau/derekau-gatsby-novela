@@ -1,6 +1,6 @@
 ---
-title: Max
-author: Derek Au
+title: "Max"
+author: "Derek Au"
 date: 2014-12-29
 hero: ./images/IMG_0050_21.jpg
 excerpt: 

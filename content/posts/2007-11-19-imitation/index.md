@@ -1,6 +1,6 @@
 ---
-title: Imitation
-author: Derek Au
+title: "Imitation"
+author: "Derek Au"
 date: 2007-11-19
 hero: ./images/IMG_9422.jpg
 excerpt: 

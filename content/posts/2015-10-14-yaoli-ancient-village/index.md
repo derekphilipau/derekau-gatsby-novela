@@ -1,8 +1,8 @@
 ---
-title: Yaoli Village and Raonan Outdoor Ceramics Museum
-author: Derek Au
+title: "Yaoli Village and Raonan Outdoor Ceramics Museum"
+author: "Derek Au"
 date: 2015-10-14
-hero: ./DSCF8413_edit.jpg
+hero: ./images/DSCF8413_edit.jpg
 excerpt: 
 ---
 
@@ -13,13 +13,13 @@ During the past few years I have visited the village a handful of times, and eac
 But the countryside around Yaoli is beautiful.  If you continue driving past the ancient village you will find numerous small villages with restaurants offering local cuisine.  Drive up the mountain and you should come across wonderful views of the valleys as well as waterfalls.
 
 ![](./images/DSCF8326_sqare.jpg)
-    
-    A village near Yaoli
-    
+
+A village near Yaoli
+
 ![](./images/IMG_6663.jpg)
-    
-    An ancient bridge in the countryside near Yaoli
-    
+
+An ancient bridge in the countryside near Yaoli
+
 
 ![](./images/IMG_6553-1.jpg)
 
@@ -50,13 +50,13 @@ The crushed stone powder is washed, mixed, and dried in large pits.
 The porcelain paste is formed into bricks and air-dried."
 
 ![](./images/DSCF8431_edit.jpg)
-    
-    One of the remaining dragon kiln ruins. Chambers can be seen at the bottom of the kiln.
-    
+
+One of the remaining dragon kiln ruins. Chambers can be seen at the bottom of the kiln.
+
 ![](./images/DSCF8442_edit.jpg)
-    
-    Another dragon kiln at the Yaoli site.
-    
+
+Another dragon kiln at the Yaoli site.
+
 
 ![](./images/DSCF8443_edit.jpg)
 
