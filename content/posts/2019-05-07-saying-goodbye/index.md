@@ -1,10 +1,9 @@
 ---
-title: Saying Goodbye
-author: Derek Au
+title: "Saying Goodbye"
+author: "Derek Au"
 date: 2019-05-07
-hero: 
+hero: ./images/All.jpg
 excerpt: 
-coverImage: "All.jpg"
 ---
 
 Saying goodbye to the Alfred University Raw Materials Lab.  

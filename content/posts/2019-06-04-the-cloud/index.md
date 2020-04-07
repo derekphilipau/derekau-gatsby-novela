@@ -1,8 +1,8 @@
 ---
-title: The Cloud
-author: Derek Au
+title: "The Cloud"
+author: "Derek Au"
 date: 2019-06-04
-hero: 
+hero: ./images/StyleGanStudio.jpg
 excerpt: 
 ---
 

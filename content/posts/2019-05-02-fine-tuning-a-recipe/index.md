@@ -1,10 +1,9 @@
 ---
-title: Fine-tuning a Recipe
-author: Derek Au
+title: "Fine-tuning a Recipe"
+author: "Derek Au"
 date: 2019-05-02
-hero: 
+hero: ./images/ReitzReductionAll.jpg
 excerpt: 
-coverImage: "ReitzOxidationAll.jpg"
 ---
 
 Creating a small Si:Al biaxial test to "fine-tune" a recipe, in this case Reitz Purple.  

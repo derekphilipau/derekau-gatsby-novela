@@ -1,8 +1,8 @@
 ---
-title: This  vessel does not exist.
-author: Derek Au
+title: "This  vessel does not exist."
+author: "Derek Au"
 date: 2019-06-07
-hero: 
+hero: ./images/announce.jpg
 excerpt: 
 ---
 

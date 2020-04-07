@@ -1,10 +1,9 @@
 ---
-title: Rapid Glaze Calculator
-author: Derek Au
+title: "Rapid Glaze Calculator"
+author: "Derek Au"
 date: 2019-04-26
-hero: 
+hero: "./images/rapidglazecalc.jpg"
 excerpt: 
-coverImage: "rapidglazecalc.jpg"
 ---
 
 Rapid glaze calculator designed by Colin Pearson and Dennis Healing. Published in "Glazes for the Craft Potter" by Harry Fraser, 1998.

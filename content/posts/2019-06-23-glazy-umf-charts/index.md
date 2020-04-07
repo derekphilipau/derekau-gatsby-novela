@@ -1,6 +1,6 @@
 ---
-title: Glazy UMF Charts
-author: Derek Au
+title: "Glazy UMF Charts"
+author: "Derek Au"
 date: 2019-06-23
 hero: ./images/UMF_Charts.png
 excerpt: 

@@ -1,13 +1,16 @@
 ---
-title: Reitz Purple Base Triaxial
-author: Derek Au
+title: "Reitz Purple Base Triaxial"
+author: "Derek Au"
 date: 2019-05-03
-hero: 
+hero: ./images/ReitzRIORutileRed.jpg
 excerpt: 
-coverImage: "ReitzRIORutileRed.jpg"
 ---
 
+## Oxidation
+
 ![](./images/ReitzRIORutileOx.jpg)
+
+## Reduction 
 
 ![](./images/ReitzRIORutileRed.jpg)
 

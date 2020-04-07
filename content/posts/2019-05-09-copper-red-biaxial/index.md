@@ -1,8 +1,8 @@
 ---
-title: Copper Red Biaxial
-author: Derek Au
+title: "Copper Red Biaxial"
+author: "Derek Au"
 date: 2019-05-09
-hero: 
+hero: ./images/ALL_COPPER_RED.jpg
 excerpt: 
 ---
 

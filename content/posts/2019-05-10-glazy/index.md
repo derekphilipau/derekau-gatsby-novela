@@ -1,12 +1,10 @@
 ---
-title: Glazy
-author: Derek Au
+title: "Glazy"
+author: "Derek Au"
 date: 2019-05-10
-hero: 
+hero: ./images/SearchByColor2.jpg
 excerpt: 
 ---
-
-![](./images/SearchByColor2.jpg)
 
 [https://glazy.org](https://glazy.org)
 

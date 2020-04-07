@@ -1,8 +1,8 @@
 ---
-title: Hybrids
-author: Derek Au
+title: "Hybrids"
+author: "Derek Au"
 date: 2019-06-06
-hero: 
+hero: ./images/hybrids.jpg
 excerpt: 
 ---
 

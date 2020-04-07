@@ -1,10 +1,9 @@
 ---
-title: \"Dry Glazes\" by Jeremy Jernegan, 2009
-author: Derek Au
+title: "\"Dry Glazes\" by Jeremy Jernegan, 2009"
+author: "Derek Au"
 date: 2019-05-01
-hero: 
+hero: "./images/ig_dryglazes.jpg"
 excerpt: 
-coverImage: "ig_dryglazes.jpg"
 ---
 
 I've just added some glaze tests from ["Dry Glazes" by Jeremy Jernegan, 2009](https://books.google.com/books/about/Dry_Glazes.html?id=HmuKnb_iR2AC).

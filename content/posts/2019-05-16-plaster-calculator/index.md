@@ -1,8 +1,8 @@
 ---
-title: Plaster Calculator
-author: Derek Au
+title: "Plaster Calculator"
+author: "Derek Au"
 date: 2019-05-16
-hero: 
+hero: ./images/plasttercalc.png
 excerpt: 
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: Koryo Celadon with Bone Ash and Manganese
-author: Derek Au
+title: "Koryo Celadon with Bone Ash and Manganese"
+author: "Derek Au"
 date: 2019-05-14
-hero: 
+hero: ./images/KyoroTriax.jpg
 excerpt: 
 ---
 
