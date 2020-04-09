@@ -2,7 +2,7 @@ module.exports = {
   pathPrefix: "/derekau-gatsby-novela",
   siteMetadata: {
     title: `Derek Philip Au`,
-    name: `Derek`,
+    name: `Derek Philip Au`,
     siteUrl: `https://derekau.net`,
     description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
